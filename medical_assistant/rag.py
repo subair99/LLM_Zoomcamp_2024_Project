@@ -38,13 +38,10 @@ CONTEXT:
 
 
 entry_template = """
-exercise_name: {exercise_name}
-type_of_activity: {type_of_activity}
-type_of_equipment: {type_of_equipment}
-body_part: {body_part}
-type: {type}
-muscle_groups_activated: {muscle_groups_activated}
-instructions: {instructions}
+question: {question}
+answer: {answer}
+focus: {focus}
+source: {source}
 """.strip()
 
 
