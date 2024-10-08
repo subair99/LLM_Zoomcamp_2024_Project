@@ -9,7 +9,7 @@ COPY ["Pipfile", "Pipfile.lock", "./"]
 
 RUN pipenv install --deploy --ignore-pipfile --system
 
-COPY fitness_assistant .
+COPY medical_assistant .
 
 EXPOSE 5000
 

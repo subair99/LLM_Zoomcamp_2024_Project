@@ -4,12 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-openai = "*"
 scikit-learn = "*"
 pandas = "*"
 flask = "*"
 python-dotenv = "*"
-cohere = "*"
+openai = "*"
 
 [dev-packages]
 tqdm = "*"
