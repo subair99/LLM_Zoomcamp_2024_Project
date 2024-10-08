@@ -27,12 +27,12 @@ def search(query):
 
 
 prompt_template = """
-You're a fitness insrtuctor. Answer the QUESTION based on the CONTEXT from our exercises database.
+You're an excellent medical assistant. Answer the QUESTION based on the CONTEXT from our exercises database.
 Use only the facts from the CONTEXT when answering the QUESTION.
 
 QUESTION: {question}
 
-CONTEXT:
+CONTEXT: 
 {context}
 """.strip()
 
