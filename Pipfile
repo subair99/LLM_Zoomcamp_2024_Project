@@ -9,8 +9,8 @@ pandas = "*"
 flask = "*"
 python-dotenv = "*"
 openai = "*"
+gunicorn = "*"
 questionary = "*"
-psycopg2 = "*"
 
 [dev-packages]
 tqdm = "*"
