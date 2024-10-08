@@ -9,6 +9,7 @@ pandas = "*"
 flask = "*"
 python-dotenv = "*"
 openai = "*"
+questionary = "*"
 
 [dev-packages]
 tqdm = "*"
