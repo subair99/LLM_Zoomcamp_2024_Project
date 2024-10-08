@@ -6,6 +6,9 @@ from openai import OpenAI
 
 import ingest
 
+from dotenv import load_dotenv
+
+load_dotenv()
 
 client = OpenAI()
 index = ingest.load_index()
