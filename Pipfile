@@ -1,4 +1,3 @@
-
 [[source]]
 url = "https://pypi.org/simple"
 verify_ssl = true
@@ -21,7 +20,7 @@ questionary = "*"
 tqdm = "*"
 notebook = "==7.1.2"
 ipywidgets = "*"
-export = "*"
+jupyter = "*"
 requests = "*"
 pgcli = "*"
 questionary = "*"
