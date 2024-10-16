@@ -1,0 +1,991 @@
+id,question
+0,What are the main components of an artificial knee?
+0,What is the difference between total knee replacement and partial knee replacement?
+0,How are the components of a knee joint attached to the bone?
+0,What are the advantages of minimally invasive knee surgery?
+0,What should I consider if I am interested in having a partial knee replacement?
+1,What are the common symptoms associated with prostate cancer that I should be aware of?
+1,How does prostate cancer affect urination patterns in men?
+1,What are the potential sexual side effects of untreated prostate cancer?
+1,Can prostate cancer lead to any other physical discomfort besides urination issues?
+1,What is the significance of blood in urine or semen in the context of prostate cancer?
+2,What age group of women should be screened for osteoporosis according to the United States Preventive Services Task Force?
+2,What are some risk factors that might prompt a doctor to evaluate a patient for osteoporosis?
+2,How is osteoporosis diagnosed and what tests are involved in the diagnosis?
+2,What does a bone density test measure and why is it important?
+2,What type of bone density test is most widely recognized for diagnosing osteoporosis?
+3,What are the leading causes of kidney disease and how do they affect kidney function?
+3,How does a family history of kidney failure impact my risk of developing kidney disease?
+3,Which racial or ethnic groups are at higher risk for kidney failure and why?
+3,What preventive measures can I take to maintain kidney health if I am at risk?
+3,Why is it important to get tested for kidney disease if I have risk factors like diabetes or high blood pressure?
+4,What are the early symptoms of kidney disease since it is described as a 'silent' disease?
+4,How is kidney disease diagnosed and what tests are involved in checking kidney function?
+4,"What is the significance of a GFR result below 60, and how does it relate to kidney disease?"
+4,"What should I do if I have diabetes, high blood pressure, or a family history of kidney failure regarding kidney health?"
+4,What types of symptoms can occur if kidney disease progresses to kidney failure?
+5,What is the most common symptom of dry age-related macular degeneration (AMD)?
+5,How does dry AMD affect vision in one eye compared to the other?
+5,"What is drusen, and how is it related to dry AMD?"
+5,At what age is one most likely to develop drusen associated with dry AMD?
+5,How can an eye care professional detect early signs of dry AMD?
+6,What treatment options are available if my smell disorder is caused by medication?
+6,Can my sense of smell improve after a respiratory infection or allergy resolves?
+6,"How do nasal obstructions impact my ability to smell, and what treatments are available?"
+6,What role do oral steroids and antibiotics play in treating smell disorders?
+6,Is it possible for my sense of smell to return to normal without any intervention?
+7,What happens to cells in the body that leads to breast cancer?
+7,Can you explain the difference between benign and malignant tumors in the context of breast cancer?
+7,How do abnormal cells contribute to the formation of breast cancer tumors?
+7,What is the process by which normal cells become cancerous in breast cancer?
+7,What type of mass is formed when there is uncontrolled cell growth associated with breast cancer?
+8,What are the common side effects of surgery for colorectal cancer?
+8,How do the side effects of chemotherapy for colorectal cancer vary?
+8,What specific side effects are associated with radiation therapy for colorectal cancer?
+8,Are there any new medications that reduce nausea from colorectal cancer treatments?
+8,What are the most frequent symptoms experienced during colorectal cancer treatment?
+9,What role does dopamine play in the brain for patients with Parkinson's Disease?
+9,How does the loss of dopamine affect movement in individuals with Parkinson's Disease?
+9,Which brain regions are involved in the dopamine signaling affected by Parkinson's Disease?
+9,What is the significance of the connection between the substantia nigra and the corpus striatum in Parkinson's Disease?
+9,How do abnormal nerve-firing patterns in the brain relate to the symptoms of Parkinson's Disease?
+10,What are Lewy bodies and what do they consist of?
+10,How are Lewy bodies related to Parkinson's disease?
+10,Do researchers understand why Lewy bodies form in the brain?
+10,What impact do Lewy bodies have on brain cell function?
+10,Could Lewy bodies potentially have a protective role in the brain?
+11,What methods are currently used to diagnose sporadic Parkinson's disease?
+11,Are there any specific lab tests that can confirm a diagnosis of Parkinson's disease?
+11,How can doctors differentiate Parkinson's from other diseases with similar symptoms?
+11,What role does DaTscan play in the diagnosis of Parkinson's disease?
+11,Why is it important to ensure an accurate diagnosis of Parkinson's disease as soon as possible?
+12,What is the first step I should take if I suspect I have urinary incontinence?
+12,What kind of tests might my health care provider perform to assess my urinary incontinence?
+12,"Will I need to keep a diary of my urinary habits, and if so, what should I include?"
+12,Are there specialists I might be referred to for urinary incontinence issues?
+12,What information will my health care provider want to know about my medical history related to urinary incontinence?
+13,What is the contact information for the National Eye Institute regarding cataracts?
+13,Where can I find more information about intraocular lenses?
+13,Which organization can provide assistance with issues about cataracts?
+13,What is the address of the U.S. Food and Drug Administration?
+13,How can I reach the National Eye Institute by email?
+14,"What are the main symptoms of shingles, and how long does the rash typically take to heal?"
+14,"Can shingles appear on the face, and what complications might arise from facial outbreaks?"
+14,"Is it true that anyone can get shingles, and who is most at risk?"
+14,What should I do to prevent the spread of shingles if I have an active rash?
+14,"If I had shingles once, can I get it again, and what can help reduce my risk of a repeat episode?"
+15,What happens to the heart when a coronary artery is blocked by a blood clot?
+15,How quickly should I seek treatment if I suspect I'm having a heart attack?
+15,What are the main treatments available for someone experiencing a heart attack?
+15,Why is it critical to call 9-1-1 instead of driving to the hospital during a heart attack?
+15,What types of medications and equipment do ambulances carry to assist heart attack patients?
+16,"What is the process of screening for skin cancer, and who typically performs it?"
+16,What signs should I look for when performing self-examinations for melanoma?
+16,"How is a biopsy performed to diagnose skin cancer, and what does it involve?"
+16,What tests are conducted if a biopsy confirms the presence of skin cancer?
+16,"How do doctors determine if skin cancer has spread to lymph nodes, and what methods do they use?"
+17,What type of cells does squamous cell carcinoma develop from?
+17,Is squamous cell carcinoma considered life-threatening?
+17,Where on the body does squamous cell carcinoma most commonly occur?
+17,How does squamous cell carcinoma compare in frequency to basal cell carcinoma?
+17,Can squamous cell carcinoma appear on parts of the body that aren't exposed to the sun?
+18,What medications are approved to treat the symptoms of Alzheimer's disease?
+18,How do the medications Aricept and Exelon differ in terms of the stages of Alzheimer's they treat?
+18,Are there any medications available that can cure Alzheimer's disease?
+18,What should a doctor consider when prescribing medicine for behavior problems in Alzheimer's patients?
+18,How do these Alzheimer's medications help improve the quality of life for patients?
+19,What are the main causes of dry eye disease?
+19,How can I tell if I have dry eye symptoms?
+19,What treatment options are available for dry eye?
+19,Are there any lifestyle changes I can make to improve dry eye conditions?
+19,Where can I find more information and resources about dry eye?
+20,What treatments are available for gum disease?
+20,Can you explain what deep cleaning involves for periodontal disease?
+20,Are there any medications that can help with gum disease symptoms?
+20,In what cases is surgery necessary for treating periodontal disease?
+20,How do bone and tissue grafts assist in the treatment of gum disease?
+21,What dietary changes should I make to manage heart failure?
+21,How can I reduce my fluid intake for heart failure treatment?
+21,What are some effective ways to lose weight if I have heart failure?
+21,Is quitting smoking important for someone with heart failure?
+21,What type of physical activity is recommended for heart failure patients?
+22,What are the main signs and symptoms that indicate the presence of gallbladder cancer?
+22,How does being female affect the risk of developing gallbladder cancer?
+22,What makes gallbladder cancer difficult to detect and diagnose in its early stages?
+22,How is gallbladder cancer diagnosed and what tests are commonly used?
+22,What factors influence the prognosis and treatment options for someone with gallbladder cancer?
+23,What are the standard treatment options available for myelodysplastic/myeloproliferative neoplasms?
+23,How does chemotherapy work for patients with myelodysplastic/myeloproliferative neoplasms?
+23,Can a patient enroll in a clinical trial at any stage of their treatment process?
+23,What is the role of stem cell transplants in the treatment of myelodysplastic/myeloproliferative neoplasms?
+23,Are there any new treatments being tested specifically for myelodysplastic/myeloproliferative neoplasms?
+24,What are the recommended screening tests for children at increased risk of Wilms tumor?
+24,How often should children with a higher risk of Wilms tumor be screened?
+24,What genetic syndromes require additional screening for tumors associated with Wilms tumor?
+24,What imaging techniques are typically used to diagnose Wilms tumor in children?
+24,What factors determine whether a biopsy is performed for Wilms tumor?
+25,What factors impact the prognosis of anal cancer recovery?
+25,How does the size of the tumor influence treatment options for anal cancer?
+25,Why is the location of the tumor in the anus important for anal cancer treatment?
+25,How does lymph node involvement affect the prognosis of anal cancer?
+25,What considerations are made for patients with HIV when treating anal cancer?
+26,What is intraocular melanoma and where does it form in the eye?
+26,What are the common risk factors associated with intraocular melanoma?
+26,What symptoms should I look for that may indicate intraocular melanoma?
+26,How is intraocular melanoma diagnosed and is a biopsy typically required?
+26,What are the main types of intraocular melanoma and their likelihood of spreading?
+27,What are the five standard treatment options available for rectal cancer?
+27,How does neoadjuvant therapy differ from adjuvant therapy in rectal cancer treatment?
+27,What types of surgery are typically performed to remove rectal cancer?
+27,What should a patient consider when deciding to participate in a clinical trial for rectal cancer?
+27,What follow-up tests may be necessary after treatment for rectal cancer?
+28,What are myelodysplastic syndromes and how do they affect blood cell maturation?
+28,How are different types of myelodysplastic syndromes diagnosed based on changes in blood cells?
+28,What role do age and previous cancer treatments play in the risk of developing myelodysplastic syndromes?
+28,What are some common signs and symptoms experienced by patients with myelodysplastic syndromes?
+28,How does the prognosis of myelodysplastic syndromes affect available treatment options?
+29,What are the different treatment options available for children diagnosed with childhood astrocytoma?
+29,How should the treatment for childhood astrocytomas be planned and who should be involved in the planning process?
+29,What potential late effects can arise from cancer treatments for childhood astrocytomas?
+29,Can you explain the role of clinical trials in the treatment of childhood astrocytomas and how one can participate?
+29,What follow-up procedures are necessary after treatment for childhood astrocytomas to monitor the child's condition?
+30,What specific factors increase the risk of childhood Acute Myeloid Leukemia (AML)?
+30,How does a family history of leukemia affect my child's risk for childhood AML?
+30,Can exposure to certain substances before birth contribute to the likelihood of developing childhood AML?
+30,What genetic disorders are associated with an increased risk for childhood AML?
+30,Is there a connection between past chemotherapy or radiation treatment and childhood AML risk?
+31,What exactly is non-small cell lung cancer and how does it develop in the lung tissues?
+31,What are the major types of non-small cell lung cancer and how do their cancer cells differ?
+31,Can you explain the main risk factor for developing non-small cell lung cancer and its significance?
+31,What are the common signs or symptoms indicating a possible presence of non-small cell lung cancer?
+31,"What treatment options currently exist for patients with non-small cell lung cancer, and do any offer a cure?"
+32,What is the primary cause of childhood brain tumors?
+32,Are there any known risk factors for childhood brain stem glioma?
+32,How can I identify symptoms of a brain stem glioma in a child?
+32,What treatment options are available for childhood brain stem glioma?
+32,Is there ongoing research to determine the causes of childhood brain tumors?
+33,What are cancer prevention clinical trials and how do they relate to ovarian cancer?
+33,Who can participate in cancer prevention clinical trials for ovarian cancer?
+33,What lifestyle changes are being studied in cancer prevention trials for ovarian cancer?
+33,Are there specific clinical trials focused on preventing fallopian tube cancer?
+33,Where can I find information about ongoing clinical trials for ovarian cancer prevention?
+34,What are the different types of treatment available for patients with plasma cell neoplasms?
+34,Can you explain what chemotherapy involves for treating plasma cell neoplasms?
+34,What role do clinical trials play in the treatment of plasma cell neoplasms?
+34,How does high-dose chemotherapy with stem cell transplant work for plasma cell neoplasms?
+34,What supportive care options are available to help manage symptoms from plasma cell neoplasms and their treatments?
+35,What inherited disorders can increase the risk of adult soft tissue sarcoma?
+35,How does having a risk factor for soft tissue sarcoma affect my chances of getting the disease?
+35,What are some chemical exposures associated with adult soft tissue sarcoma risk?
+35,Can past radiation therapy for other cancers contribute to soft tissue sarcoma risk?
+35,What role does long-term lymphedema play in the risk for developing adult soft tissue sarcoma?
+36,What are the common signs that may indicate a diagnosis of prostate cancer?
+36,How is prostate cancer detected and diagnosed through medical tests?
+36,What factors can influence the prognosis and treatment options for prostate cancer?
+36,Could you explain the location and role of the prostate gland in the male reproductive system?
+36,What is the statistical likelihood of men in the U.S. being diagnosed with prostate cancer?
+37,What factors affect the treatment options for Chronic Lymphocytic Leukemia (CLL)?
+37,How does the stage of the disease impact the prognosis for a CLL patient?
+37,What are the signs or symptoms that may influence the treatment approach for CLL?
+37,How does a change in DNA influence the prognosis of Chronic Lymphocytic Leukemia?
+37,What impact does the patient's general health have on the likelihood of recovery from CLL?
+38,What new types of treatments are being studied for adult central nervous system tumors?
+38,Can you explain how proton beam radiation therapy works for treating brain tumors?
+38,What is biologic therapy and how does it help with cancer treatment?
+38,Are there any clinical trials available for patients with brain tumors?
+38,What are some types of treatments included in biologic therapy for brain tumors?
+39,"What are the two main types of Hodgkin lymphoma, and can you explain the difference between them?"
+39,What are the common signs and symptoms associated with adult Hodgkin lymphoma that I should be aware of?
+39,How does age and gender influence the risk of developing adult Hodgkin lymphoma?
+39,What diagnostic tests are typically used to detect adult Hodgkin lymphoma?
+39,What factors can affect the prognosis and treatment options for someone diagnosed with adult Hodgkin lymphoma?
+40,What are the primary locations in the body where neuroblastoma can form?
+40,How is neuroblastoma diagnosed in patients?
+40,What are the common signs and symptoms associated with neuroblastoma?
+40,"Can neuroblastoma be caused by genetic factors, and if so, how?"
+40,What factors may influence the prognosis and treatment options for neuroblastoma?
+41,What new types of treatments are being studied for recurrent childhood central nervous system atypical teratoid/rhabdoid tumor?
+41,How does targeted therapy differ from chemotherapy and radiation therapy in treating this cancer?
+41,Why is participation in a clinical trial considered a beneficial treatment choice for some patients?
+41,"Can patients join clinical trials at any stage of their cancer treatment, or are there specific requirements?"
+41,Where can I find information about current clinical trials for this type of cancer?
+42,What new treatments are being tested for childhood acute lymphoblastic leukemia?
+42,Can you explain how CAR T-cell therapy works for treating this type of leukemia?
+42,What is the importance of participating in clinical trials for childhood leukemia patients?
+42,Are there specific eligibility criteria for clinical trials related to childhood acute lymphoblastic leukemia?
+42,How can I find current clinical trials available for childhood acute lymphoblastic leukemia?
+43,What types of procedures are used to diagnose nonmelanoma skin cancer?
+43,Can you explain what happens during a skin biopsy for skin cancer?
+43,What is the difference between a shave biopsy and an excisional biopsy?
+43,How does a doctor determine if a skin growth is abnormal?
+43,What are the signs that might indicate actinic keratosis during a skin exam?
+44,What is the defining height for an adult to be classified as a dwarf?
+44,How many different conditions can lead to dwarfism?
+44,What percentage of dwarfism cases is caused by achondroplasia?
+44,"Is dwarfism considered a disease, and what are the related health risks?"
+44,Can individuals with dwarfism live active lives and have a normal life expectancy?
+45,What exactly is an aneurysm and how does it form in the arteries?
+45,Which arteries are most commonly affected by aneurysms?
+45,What are the potential risks if an aneurysm bursts in the brain?
+45,How can doctors detect aneurysms before they become dangerous?
+45,What treatment options are available for managing aneurysms?
+46,What are the main sources of lead exposure in the environment?
+46,How can lead poisoning affect my health as an adult?
+46,What specific health issues can lead exposure cause in children?
+46,What activities or jobs might increase my risk of lead exposure?
+46,How can I reduce my risk of lead poisoning in my home?
+47,What are the common risk factors associated with breast cancer that cannot be changed?
+47,How do the genes BRCA1 and BRCA2 influence the risk of developing breast cancer?
+47,What symptoms should I look for that could indicate the presence of breast cancer?
+47,How can breast self-exams and mammography contribute to early detection of breast cancer?
+47,What are the primary treatment options available for breast cancer?
+48,What are the main causes of malnutrition that I should be aware of?
+48,How do I know if I'm suffering from malnutrition based on symptoms?
+48,What tests might my doctor perform to diagnose malnutrition?
+48,What treatments are available for someone diagnosed with malnutrition?
+48,Can malnutrition occur even if I do not experience any symptoms?
+49,"What are the symptoms of exposure to poison ivy, poison oak, or poison sumac?"
+49,How can I prevent a rash caused by these plants?
+49,"What should I do if I come into contact with poison ivy, oak, or sumac?"
+49,When should I seek medical help for a rash caused by these plants?
+49,"What risks are associated with burning poison ivy, poison oak, or poison sumac?"
+50,What are leukodystrophies and how do they affect the brain?
+50,What is the role of the myelin sheath in nerve cell function and how is it impacted by leukodystrophies?
+50,At what age do symptoms of leukodystrophies typically begin to manifest?
+50,How do the symptoms of leukodystrophies progress over time in affected children?
+50,What current treatment options are available for managing leukodystrophies?
+51,What are the initial symptoms of carpal tunnel syndrome that I might experience over time?
+51,What factors could contribute to the development of carpal tunnel syndrome?
+51,How does a doctor diagnose carpal tunnel syndrome?
+51,What treatment options are available for carpal tunnel syndrome?
+51,Why are women more likely to develop carpal tunnel syndrome compared to men?
+52,What are parathyroid glands and where are they located in the body?
+52,How does parathyroid hormone (PTH) affect calcium and phosphorous levels in the body?
+52,What conditions are associated with an overproduction of parathyroid hormone?
+52,What symptoms might indicate that I have hypoparathyroidism due to low PTH levels?
+52,What are the common treatment options for restoring calcium and phosphorous balance in parathyroid disorders?
+53,What problems can high blood pressure cause during pregnancy for me and my baby?
+53,What is gestational hypertension and how does it relate to pregnancy?
+53,What treatments are available for managing high blood pressure during pregnancy?
+53,What is preeclampsia and when does it typically occur during pregnancy?
+53,How can I reduce the risks associated with high blood pressure during my pregnancy?
+54,What causes the itchy skin condition known as scabies?
+54,How does scabies spread in crowded environments?
+54,What are the common symptoms associated with scabies infection?
+54,How is scabies diagnosed by a healthcare provider?
+54,What steps should be taken to treat scabies and prevent its spread among household members?
+55,What causes genital herpes and how can it be transmitted?
+55,What are the typical symptoms experienced during herpes outbreaks?
+55,How often do people usually experience outbreaks of genital herpes?
+55,Can genital herpes affect newborns or individuals with weakened immune systems?
+55,What treatment options are available for managing genital herpes symptoms?
+56,What is multiple myeloma and where does it begin in the body?
+56,What are some common symptoms associated with multiple myeloma?
+56,Who is more likely to develop multiple myeloma based on demographic factors?
+56,How do doctors diagnose multiple myeloma?
+56,What treatment options are available for those with symptomatic multiple myeloma?
+57,What are the main functions of hormones in the body?
+57,Which glands are responsible for producing hormones?
+57,How do hormones affect mood and reproduction?
+57,What can laboratory tests reveal about hormone levels?
+57,Why can an imbalance in hormone levels be serious?
+58,What is health literacy and how does it impact a person's ability to make health decisions?
+58,How does low health literacy affect individuals with chronic diseases?
+58,What factors contribute to a person's health literacy levels?
+58,What skills are necessary for effectively managing one's health?
+58,How can someone improve their health literacy to make better health choices?
+59,What organs are located inside the chest cavity?
+59,What are some common lung diseases associated with chest disorders?
+59,Can you explain the role of the pleura in the chest?
+59,What types of disorders affect the esophagus within the chest region?
+59,What is a thoracic aortic aneurysm and how does it relate to chest conditions?
+60,What causes brachial plexus injuries?
+60,What are the common symptoms of a brachial plexus injury?
+60,How do brachial plexus injuries typically occur during childbirth?
+60,Can brachial plexus injuries heal without treatment?
+60,What treatments are available for brachial plexus injuries?
+61,What are some examples of violent acts that can occur among teens?
+61,How can the behavior of friends influence teen violence?
+61,What are the potential consequences of teen violence?
+61,In what ways can bullying be harmful to a teen's well-being?
+61,How can parents help reduce the risk of violence in their teenagers?
+62,What are health statistics and what do they measure?
+62,How are health statistics used in research?
+62,What kind of patterns can researchers identify using health statistics?
+62,Can you explain the term 'vital statistics' in relation to health?
+62,How do health statistics help in controlling diseases in populations?
+63,What is the primary function of the liver in the human body?
+63,Why might someone need a liver transplant?
+63,What is the most common reason for adults to receive a liver transplant?
+63,How do doctors typically obtain a liver for transplantation?
+63,What medications are necessary after receiving a liver transplant?
+64,What is leukemia and how does it affect white blood cells in the body?
+64,"Are there different types of leukemia, and how do they differ in terms of growth rate?"
+64,What are the common symptoms that indicate a child might have leukemia?
+64,What factors increase the risk of developing childhood leukemia?
+64,What treatment options are available for children diagnosed with leukemia?
+65,What exactly is a concussion and how does it differ from other types of brain injuries?
+65,What are the common symptoms I should look out for after sustaining a concussion?
+65,"How long might it take to recover fully from a concussion, and what role does rest play in this recovery?"
+65,What should I do if I notice my symptoms getting worse after a concussion?
+65,How do doctors diagnose a concussion and what tests are typically involved?
+66,What is the primary genetic cause of Turner syndrome in females?
+66,How does Turner syndrome affect female development both before and after birth?
+66,Can Turner syndrome occur due to a deletion of a piece of an X chromosome?
+66,What is mosaic Turner syndrome and how does it differ from other forms?
+66,Which gene is known to be important for growth and bone development in Turner syndrome?
+67,What type of inheritance pattern is associated with Bartter syndrome?
+67,Can you explain the role of carriers in Bartter syndrome inheritance?
+67,What is the risk for children of carriers of Bartter syndrome?
+67,Do parents with one mutated gene show symptoms of Bartter syndrome?
+67,How many children would typically be affected if both parents are carriers of Bartter syndrome?
+68,What are the most common signs and symptoms associated with Donnai-Barrow syndrome?
+68,How frequently does cognitive impairment occur in patients with Donnai-Barrow syndrome?
+68,Can you provide details about the structural abnormalities related to the corpus callosum in this condition?
+68,What percentage of individuals with Donnai-Barrow syndrome experience visual impairments?
+68,Is there a known genetic inheritance pattern for Donnai-Barrow syndrome?
+69,What are the primary treatment options for Omenn syndrome?
+69,What precautions should be taken for patients with Omenn syndrome to prevent infections?
+69,Are there any specific nutritional therapies recommended for patients with Omenn syndrome?
+69,How is Omenn syndrome connected to severe combined immunodeficiency (SCID)?
+69,What supportive care measures are recommended while waiting for stem cell transplantation in Omenn syndrome?
+70,What are the key signs and symptoms associated with Iminoglycinuria?
+70,How does abnormality of the eye manifest in patients with Iminoglycinuria?
+70,Is intellectual disability a common symptom seen in individuals with Iminoglycinuria?
+70,"What is the definition of hyperglycinuria, and how is it related to Iminoglycinuria?"
+70,Can you explain the inheritance pattern of Iminoglycinuria and its implications for families?
+71,What are the common signs and symptoms associated with Thrombocytopenia with elevated serum IgA and renal disease?
+71,How does abnormal bleeding manifest in patients with Thrombocytopenia with elevated serum IgA and renal disease?
+71,What is the significance of increased IgA levels in this condition?
+71,Can you explain the relationship between hematuria and renal disease in Thrombocytopenia with elevated serum IgA?
+71,Is there any information on the frequency of symptoms for this disease based on studies?
+72,What are the common signs and symptoms associated with Congenital porphyria?
+72,How frequently do patients with Congenital porphyria exhibit skin blistering?
+72,What percentage of individuals with Congenital porphyria may experience hemolytic anemia?
+72,Are there any notable dental abnormalities seen in Congenital porphyria patients?
+72,What is the expected frequency of splenomegaly in individuals diagnosed with Congenital porphyria?
+73,What is the primary treatment option for intravenous leiomyomatosis?
+73,Why is it important to completely remove the tumor during surgery for IVL?
+73,Which anti-estrogen therapy is suggested for treating intravenous leiomyomatosis?
+73,What complications can arise from leaving part of the tumor inside the pelvic veins after surgery?
+73,How long is the median time from hysterectomy to cardiac involvement in IVL?
+74,What are the characteristics of the tumors associated with Multiple familial trichoepithelioma?
+74,At what age do the trichoepitheliomas typically first appear in affected individuals?
+74,What is the potential risk of malignancy in multiple familial trichoepithelioma?
+74,Where on the body do these tumors most commonly develop?
+74,How might Multiple familial trichoepithelioma impact a person's psychological well-being?
+75,What is Sprengel deformity and how does it affect the shoulder blade?
+75,What are the common signs and symptoms associated with Sprengel deformity?
+75,"Can Sprengel deformity be inherited, and if so, how?"
+75,What factors contribute to the development of Sprengel deformity during pregnancy?
+75,What treatment options are available for individuals with severe Sprengel deformity?
+76,What are the primary causes of cold agglutinin disease?
+76,What kinds of bacterial infections can lead to secondary cold agglutinin disease?
+76,Which viruses are associated with cold agglutinin disease?
+76,Are there any autoimmune diseases linked to cold agglutinin disease?
+76,Can certain cancers contribute to the development of cold agglutinin disease?
+77,What is the inheritance pattern associated with benign occipital epilepsy?
+77,Can you list the common signs and symptoms of benign occipital epilepsy?
+77,How is EEG used in the diagnosis of benign occipital epilepsy?
+77,What frequency of seizures is observed in patients with benign occipital epilepsy?
+77,Where can I find detailed definitions for medical terms related to benign occipital epilepsy?
+78,What are the common signs and symptoms of Schnitzler syndrome?
+78,"Is there a known cause for Schnitzler syndrome, or is it sporadic?"
+78,"How does Schnitzler syndrome affect organ size, and what does organomegaly mean?"
+78,What types of medications are typically used to treat Schnitzler syndrome?
+78,Can phototherapy be effective for alleviating symptoms of Schnitzler syndrome?
+79,What are the key characteristics of opsismodysplasia at birth?
+79,How does opsismodysplasia affect limb and craniofacial features?
+79,What is the genetic cause of opsismodysplasia?
+79,What are the common health risks associated with opsismodysplasia in children?
+79,How is opsismodysplasia inherited?
+80,What are the key methods used to diagnose long QT syndrome?
+80,What clinical findings might indicate a diagnosis of long QT syndrome?
+80,How does family history play a role in diagnosing long QT syndrome?
+80,Is genetic testing important for families with long QT syndrome?
+80,What are some symptoms that could lead to suspicion of long QT syndrome?
+81,What is the inheritance pattern of 21-hydroxylase-deficient congenital adrenal hyperplasia?
+81,How can parents determine the likelihood of having a child with this disorder?
+81,What are the chances of having a child who is a carrier for 21-hydroxylase deficiency?
+81,"If both parents are carriers, what are the probabilities for their children regarding this condition?"
+81,What does autosomal recessive inheritance mean in the context of congenital adrenal hyperplasia?
+82,What are the common signs and symptoms associated with X-linked visceral heterotaxy 1?
+82,How does abdominal situs inversus manifest in patients with X-linked visceral heterotaxy 1?
+82,What is the relationship between X-linked visceral heterotaxy 1 and dextrocardia?
+82,Can you explain the role of asplenia in X-linked visceral heterotaxy 1?
+82,What types of congenital heart defects are frequently observed in patients with X-linked visceral heterotaxy 1?
+83,What is the most common approach to treating Kyrle disease?
+83,How can itching associated with Kyrle disease be alleviated?
+83,What are the benefits of using high doses of vitamin A for Kyrle disease?
+83,Which therapies have shown effectiveness for limited lesions caused by Kyrle disease?
+83,Are there any specific precautions to consider when treating Kyrle disease in patients with dark skin?
+84,What are the most common signs and symptoms associated with Femur fibula ulna syndrome?
+84,How frequently do abnormalities of the femur and ulna occur in patients with Femur fibula ulna syndrome?
+84,Can you list the symptoms that occur in around 90% of patients with Femur fibula ulna syndrome?
+84,"Is short stature a common symptom of Femur fibula ulna syndrome, and if so, how often does it occur?"
+84,What sources provide the frequency data for signs and symptoms related to Femur fibula ulna syndrome?
+85,What are the typical onset age and common characteristics of Blepharospasm?
+85,How are the signs and symptoms of Blepharospasm documented in terms of frequency?
+85,Can you explain how the Human Phenotype Ontology and Orphanet contribute to our understanding of Blepharospasm?
+85,What is the significance of the frequency estimates in understanding Blepharospasm symptoms?
+85,Are the signs and symptoms of Blepharospasm consistent across different patient studies?
+86,What percentage of individuals with Denys-Drash syndrome exhibits male pseudohermaphroditism?
+86,How prevalent is nephroblastoma in patients diagnosed with Denys-Drash syndrome?
+86,What are the common renal complications associated with Denys-Drash syndrome?
+86,What is the likelihood of experiencing hypertension in individuals with this condition?
+86,Can you explain the significance of ambiguous genitalia in the context of Denys-Drash syndrome?
+87,What is chromosome 2q deletion and how does it occur?
+87,What are some common symptoms associated with chromosome 2q deletion?
+87,Is chromosome 2q deletion inherited from parents or does it occur spontaneously?
+87,How does the size and location of the deletion affect its severity?
+87,What type of treatment is available for individuals with chromosome 2q deletion?
+88,What medications are used to treat Ascaris infections?
+88,How long is the typical treatment duration for Ascaris infections?
+88,Are there any side effects associated with the treatment for Ascaris infections?
+88,What are the specific names of the anthelminthic medications used for Ascaris?
+88,Where can I find more information on treatment resources for Ascaris infections?
+89,What over-the-counter treatments are effective for treating pubic lice infestations?
+89,Are there any prescription medications for pubic lice that pose a higher risk due to toxicity?
+89,What steps should I take to ensure I eliminate pubic lice after treatment?
+89,"Can I use oral ivermectin for treating pubic lice, or is it only available in a topical form?"
+89,What should I do if I find that live lice are still present after treatment?
+90,What age group is most susceptible to pinworm infections?
+90,How do pinworm eggs spread in the environment?
+90,"Can household pets carry pinworms, or are they only a risk to humans?"
+90,What is the incubation period for pinworm infections after ingesting eggs?
+90,How long can pinworm eggs survive on common surfaces?
+91,What is Angiostrongylus cantonensis and how does it infect humans?
+91,In which regions are human cases of angiostrongyliasis most commonly diagnosed?
+91,What are the primary risk factors for contracting Angiostrongylus cantonensis?
+91,How do transport hosts contribute to the transmission of Angiostrongylus cantonensis to humans?
+91,What type of food preparation could increase the risk of infection with Angiostrongylus cantonensis?
+92,What is the typical incubation period for Hantavirus Pulmonary Syndrome (HPS) after exposure to infected rodents?
+92,What are the early symptoms I should look out for if I suspect HPS infection?
+92,Can you describe the late symptoms that develop after the initial phase of HPS?
+92,What is the mortality rate associated with Hantavirus Pulmonary Syndrome?
+92,Are there any specific demographic groups at higher risk for fatal outcomes from HPS?
+93,What are the effective methods for treating a body lice infestation?
+93,How frequently should clean clothes be changed to help eliminate body lice?
+93,What temperature should laundry be washed at to kill body lice?
+93,Is it necessary to use a pediculicide for body lice treatment if proper hygiene is maintained?
+93,Are there specific guidelines for choosing a pediculicide for body lice like there are for head lice?
+94,What are marine toxins and how do they affect seafood?
+94,Can seafood contaminated with marine toxins look and taste normal?
+94,What are the health risks associated with consuming seafood with marine toxins?
+94,How can I identify seafood that may be contaminated with marine toxins?
+94,What measures can be taken to avoid marine toxins in seafood?
+95,What supportive therapies are recommended for treating Chapare Hemorrhagic Fever (CHHF)?
+95,How does convalescent plasma therapy impact mortality in acute hemorrhagic fever (AHF)?
+95,What is the potential use of ribavirin in relation to arenaviruses and CHHF?
+95,Why is it important to monitor urine or semen of patients who have recovered from arenaviruses?
+95,"What are the risks of infectivity in convalescent patients of CHHF, especially regarding sexual partners?"
+96,What are the different species of hookworms that can infect humans?
+96,How do people usually get infected by animal hookworms?
+96,What is the common health condition caused by animal hookworm infection?
+96,Which animals are typically associated with hookworm infections in humans?
+96,What is cutaneous larva migrans and how is it related to hookworms?
+97,What are the effective treatments available for babesiosis?
+97,Do individuals without symptoms need to be treated for babesiosis?
+97,How can I ensure that my diagnosis of babesiosis is correct?
+97,What should I discuss with my health care provider regarding babesiosis?
+97,Where can I find more resources on the treatment of babesiosis?
+98,What steps can I take to wash my hands properly to prevent cysticercosis?
+98,How can I teach my children about hand hygiene to prevent infections like cysticercosis?
+98,What precautions should I take when consuming raw fruits and vegetables to avoid cysticercosis?
+98,What are safe drinking practices while traveling in countries with a risk of cysticercosis?
+98,How can I filter unsafe water to make it safe for drinking to prevent cysticercosis?
+99,What are the recommended medications for treating Whipworm Infection?
+99,How long is the typical treatment duration for trichuriasis?
+99,Are there any additional supplements recommended for someone with anemia due to trichuriasis?
+99,Is it common for healthcare providers to repeat stool exams after treatment for whipworm infection?
+99,What class of medications is used to eliminate parasitic worms in trichuriasis?
+100,What are the main symptoms of African Trypanosomiasis?
+100,How is African Trypanosomiasis transmitted to humans?
+100,What regions are most affected by African Trypanosomiasis?
+100,Is there a vaccine available for African Trypanosomiasis?
+100,What treatment options are available for someone diagnosed with African Trypanosomiasis?
+101,What are the primary preventative measures I can take to avoid Baylisascaris infection?
+101,How can I discourage raccoons from living near my home or in my yard?
+101,What steps should I follow to safely clean a raccoon latrine if I find one?
+101,Why is it difficult to determine if a raccoon is infected with Baylisascaris?
+101,What should I do if I find feces suspected to be from a raccoon on my property?
+102,What organism causes cystic echinococcosis in humans?
+102,What are the most common organs affected by cystic echinococcosis?
+102,How does a person typically become infected with cystic echinococcosis?
+102,What are the symptoms associated with cystic echinococcosis infection?
+102,What treatment options are available for cystic echinococcosis?
+103,What are the key prevention measures for cystic echinococcosis to control the transmission of the parasite?
+103,How can I minimize the risk of my dog consuming infected meat that might lead to cystic echinococcosis?
+103,What steps should I take to prevent my dog from interacting with wild animals to avoid alveolar echinococcosis?
+103,"Why is it important to wash hands after handling dogs, and when should this be done to prevent infection?"
+103,What should I teach my children regarding hand hygiene to help prevent echinococcosis infections?
+104,What are the main occupational groups at risk for Q fever outbreaks in the United States?
+104,What specific prevention measures should be taken to control Q fever in facilities housing sheep and goats?
+104,"Is there a vaccine available for Q fever in the United States, and what preliminary test is required before vaccination?"
+104,How does Coxiella burnetii pose a potential bioterrorism threat?
+104,What special precautions should be taken for individuals with pre-existing health conditions related to Q fever?
+105,What symptoms should prompt a doctor to consider diagnosing botulism?
+105,Are there specific tests used to confirm a diagnosis of botulism?
+105,How can doctors differentiate between botulism and other similar diseases?
+105,Which organizations can conduct tests for botulinum toxin?
+105,What alternatives to a diagnosis of botulism should doctors consider?
+106,What steps should be taken to treat someone diagnosed with head lice?
+106,Are there specific over-the-counter medications that are recommended for treating head lice?
+106,How should non-washable items be handled to prevent lice infestation?
+106,What should I do if live lice are still present after treatment?
+106,How can I prevent reinfestation of head lice after treatment?
+107,"What is the status of the H1N1 virus now, as compared to during the 2009 pandemic?"
+107,What kind of antiviral treatments were recommended during the 2009-2010 H1N1 flu season?
+107,Is the information related to 2009 H1N1 still relevant for current flu seasons?
+107,Who should receive antiviral therapy according to the 2009 H1N1 recommendations?
+107,What precautions were outlined for healthcare professionals regarding antiviral drugs during the H1N1 outbreak?
+108,What guidelines should healthy individuals follow to reduce the risk of toxoplasmosis?
+108,How can I prepare meat to minimize the chance of Toxoplasma infection before cooking?
+108,What precautions should I take when gardening to avoid toxoplasmosis from the environment?
+108,What should I do if I have a cat to prevent the transmission of Toxoplasma in my household?
+108,What steps are recommended for pregnant or immunocompromised individuals to avoid toxoplasmosis?
+109,What is the incubation period for Hendra virus infection?
+109,What are the common symptoms associated with Hendra virus?
+109,Can Hendra virus lead to complications beyond respiratory illness?
+109,What is the case fatality rate for Hendra virus infections?
+109,How rare is infection with the Hendra virus?
+110,What is the known cause of mitral valve prolapse (MVP)?
+110,Is there a genetic link associated with mitral valve prolapse?
+110,What abnormalities can occur in the mitral valve for those with MVP?
+110,How do the valve flaps appear in individuals with mitral valve prolapse?
+110,Which connective tissue disorders are commonly associated with mitral valve prolapse?
+111,What are the main goals of treatment for coronary heart disease (CHD)?
+111,What lifestyle changes should be made to help prevent or treat CHD?
+111,How can smoking affect my risk for coronary heart disease?
+111,What are the two main types of procedures used to treat CHD?
+111,What role does cardiac rehabilitation play in the treatment of CHD?
+112,What are the most common symptoms of a heart attack for both men and women?
+112,"Can heart attacks occur without chest pain, and what might be the symptoms in such cases?"
+112,How do heart attack symptoms differ for women compared to men?
+112,What should I do if I think I'm having a heart attack?
+112,What is a silent heart attack and how is it different from other types of heart attacks?
+113,What specific groups of people are at higher risk for sleep deprivation and deficiency?
+113,How do work schedules impact a person's likelihood of experiencing sleep deficiency?
+113,What lifestyle choices can contribute to a lack of sufficient sleep?
+113,Which medical conditions are linked to sleep disorders that could exacerbate sleep deficiency?
+113,How can a sleep study help in diagnosing and understanding sleep problems?
+114,What conditions can directly injure the lungs and lead to ARDS?
+114,How can sepsis contribute to the risk of developing ARDS?
+114,What role do harmful fumes play in lung injury related to ARDS?
+114,Could a severe head injury increase the chances of developing ARDS?
+114,How does breathing in vomited stomach contents cause lung injury related to ARDS?
+115,What is the role of hypocretin in narcolepsy and why are levels low in most patients?
+115,How does heredity contribute to the risk of developing narcolepsy?
+115,"Can infections be a contributing factor to narcolepsy, and if so, how?"
+115,What types of brain injuries are associated with the onset of narcolepsy?
+115,"Are there specific autoimmune disorders linked to narcolepsy, and what is their impact?"
+116,What causes bronchiectasis to develop in adults and older children?
+116,How does bronchiectasis impact the ability to clear mucus from the airways?
+116,What are some potential serious health problems that can result from untreated bronchiectasis?
+116,"Can bronchiectasis occur only in a specific section of the lung, and what might cause that?"
+116,"Is there a cure for bronchiectasis, and what can help in managing the condition?"
+117,What are the main treatment options available for managing bronchiectasis?
+117,How does chest physical therapy (CPT) work to help with bronchiectasis symptoms?
+117,What role do antibiotics play in treating lung infections caused by bronchiectasis?
+117,When is oxygen therapy recommended for patients with bronchiectasis?
+117,What additional treatments might a doctor suggest if standard treatments are not effective in bronchiectasis?
+118,What measures can I take to prevent bronchiectasis?
+118,How do childhood vaccines relate to the prevention of bronchiectasis?
+118,What are the harmful substances I should avoid to protect my lungs from bronchiectasis?
+118,How important is the treatment of lung infections in children for preventing bronchiectasis?
+118,What should I do if I suspect someone has inhaled a small object that could cause bronchiectasis?
+119,What steps can I take to prevent primary polycythemia from worsening after diagnosis?
+119,Are there specific lifestyle changes that can help prevent secondary polycythemia?
+119,How does avoiding high altitudes contribute to reducing my risk of secondary polycythemia?
+119,Can treating my heart or lung disease affect the development of secondary polycythemia?
+119,What are the complications of primary polycythemia that I should be aware of?
+120,What are the main signs and symptoms associated with thrombocytopenia?
+120,How can I identify external bleeding related to low platelet counts?
+120,What should I do if I notice prolonged bleeding from minor cuts?
+120,Are there any serious internal bleeding symptoms I should be aware of?
+120,How is mild thrombocytopenia typically discovered during medical examinations?
+121,What is the primary risk factor for developing Peripheral Artery Disease (P.A.D.)?
+121,How does older age influence the risk of P.A.D.?
+121,What complications can arise from P.A.D. in smokers or those with diabetes?
+121,Which racial or ethnic group is more affected by P.A.D.?
+121,What other diseases or conditions contribute to an increased risk of P.A.D.?
+122,What are the most common signs and symptoms of heart failure?
+122,How does shortness of breath manifest in heart failure patients?
+122,"Can heart failure cause swelling, and where might this occur?"
+122,What happens to symptoms as heart failure progresses?
+122,"Is frequent urination a symptom of heart failure, and what could it indicate?"
+123,What lifestyle changes can help prevent or delay atherosclerosis?
+123,What does a heart-healthy diet include for atherosclerosis prevention?
+123,How can physical activity impact my risk for atherosclerosis?
+123,Why is quitting smoking important in relation to atherosclerosis?
+123,What should I do if I'm overweight to manage my risk for atherosclerosis?
+124,What factors will the doctor consider in my medical history to diagnose pulmonary embolism?
+124,How is the ultrasound test used to diagnose blood clots related to pulmonary embolism?
+124,What role does the computed tomography scan play in detecting pulmonary embolism?
+124,Can you explain how a lung ventilation/perfusion scan helps in diagnosing pulmonary embolism?
+124,What types of blood tests are used to evaluate the likelihood of pulmonary embolism?
+125,What is the main cause of ischemic strokes and TIAs?
+125,How does atherosclerosis contribute to the risk of ischemic stroke?
+125,What happens when plaque in an artery ruptures?
+125,What is the role of atrial fibrillation in causing ischemic strokes?
+125,Can small artery lesions in the brain lead to ischemic strokes?
+126,What is hypotension and how is it defined in terms of blood pressure measurements?
+126,What are the two types of blood pressure measurements and what do they signify?
+126,What blood pressure readings are considered normal and what qualifies as hypotension?
+126,What factors can cause a temporary drop in blood pressure during daily activities?
+126,What are the possible signs and symptoms associated with hypotension?
+127,Is there a way to prevent acute pericarditis from occurring?
+127,What steps can I take to reduce the risk of another acute episode of pericarditis?
+127,How important is it to follow my treatment plan for pericarditis?
+127,"Can complications arise from acute pericarditis, and how can I avoid them?"
+127,Will I need ongoing medical care after experiencing acute pericarditis?
+128,What is Marfan syndrome and how does it affect connective tissue?
+128,How is Marfan syndrome inherited and what are the chances of passing it to children?
+128,What are some common physical traits associated with Marfan syndrome?
+128,What are the most serious complications of Marfan syndrome related to the heart and blood vessels?
+128,What treatment options are available for managing Marfan syndrome and its complications?
+129,What initial steps will my doctor take to determine if my palpitations are related to a heart problem?
+129,What types of specialists might be involved in diagnosing and treating my heart palpitations?
+129,What specific questions will my doctor ask about my palpitations during the medical history evaluation?
+129,What are the differences between a Holter monitor and an event monitor in terms of how they record heart activity?
+129,What diagnostic tests may be performed if my EKG results are normal but palpitations persist?
+130,What is the most common risk factor for cardiogenic shock?
+130,How does having a history of heart attacks affect the risk of cardiogenic shock?
+130,Can high blood pressure increase the likelihood of developing cardiogenic shock?
+130,Are women at a higher risk for cardiogenic shock compared to men after a heart attack?
+130,What age group is more vulnerable to cardiogenic shock?
+131,What steps can I take to prevent obesity hypoventilation syndrome (OHS) from developing?
+131,How important is a healthy diet in maintaining a healthy weight to avoid OHS?
+131,What are some effective tips for adopting a healthy lifestyle to prevent OHS?
+131,How can I track my weight and BMI to manage my risk of OHS?
+131,What substances should I avoid if I already have OHS to prevent it from worsening?
+132,What is the focus of research conducted by the NINDS on pseudotumor cerebri?
+132,How does NINDS aim to increase understanding of pseudotumor cerebri?
+132,What disorders related to the brain and nervous system are studied alongside pseudotumor cerebri?
+132,Are there any specific prevention strategies being researched for pseudotumor cerebri?
+132,What treatments are being explored for pseudotumor cerebri according to current NINDS research?
+133,What is the NINDS's role in researching chorea?
+133,What are the primary goals of the NINDS concerning chorea?
+133,How does the NINDS aim to improve treatment for movement disorders like chorea?
+133,What kind of research does the NINDS support specifically for chorea?
+133,Are there ongoing efforts to prevent chorea as part of NINDS research?
+134,What is the mission of the National Institute of Neurological Disorders and Stroke regarding neurological diseases?
+134,How do alterations in structural proteins relate to cerebral cavernous malformations?
+134,Is there currently a therapy to prevent the development or progression of cerebral cavernous malformations?
+134,What is the significance of the Rhoa/ROCK protein signaling pathway in the context of cavernous malformations?
+134,What potential therapy is being researched to inhibit the development of cavernous malformations?
+135,What types of treatments are available for managing symptoms of Sturge-Weber syndrome?
+135,Is there a specific treatment for the birthmark associated with Sturge-Weber syndrome?
+135,How are seizures controlled in individuals diagnosed with Sturge-Weber syndrome?
+135,What interventions are recommended for infants and children experiencing muscle weakness due to Sturge-Weber syndrome?
+135,How frequently should patients with Sturge-Weber syndrome be monitored for glaucoma?
+136,What factors influence the prognosis of children diagnosed with Infantile Spasms?
+136,How does the intellectual prognosis for children with Infantile Spasms compare to those without neurological impairments?
+136,What trends are observed in the frequency of epileptic spasms as children with Infantile Spasms age?
+136,Is there a relationship between Infantile Spasms and Lennox-Gastaut Syndrome?
+136,What types of seizures might develop in children after experiencing Infantile Spasms?
+137,What is Barth syndrome and how does it affect the body?
+137,What research is being conducted to understand the genetic mutations linked to Barth syndrome?
+137,How does mitochondrial dysfunction play a role in Barth syndrome?
+137,Are there any potential treatments being developed for Barth syndrome?
+137,How do healthy and mutant mitochondria interact in individuals with Barth syndrome?
+138,What are the primary symptoms associated with developmental dyspraxia?
+138,How does developmental dyspraxia affect motor tasks and coordination?
+138,Can individuals with developmental dyspraxia have average or above average intelligence?
+138,What emotional and behavioral challenges might someone with developmental dyspraxia face?
+138,What difficulties in academic skills such as reading and writing may arise from developmental dyspraxia?
+139,What is tremor and how does it manifest in the body?
+139,What are the different forms of tremor and which body parts do they affect?
+139,What are some common causes of tremor aside from neurological disorders?
+139,"At what age is essential tremor most commonly diagnosed, and what body parts are affected?"
+139,How does alcohol consumption relate to the occurrence of tremor?
+140,Is Primary Lateral Sclerosis fatal?
+140,What is the progression rate of symptoms in PLS?
+140,Can individuals with PLS walk without assistance?
+140,Do people with PLS eventually need mobility aids?
+140,Is there a cure for Primary Lateral Sclerosis?
+141,What are the primary symptoms associated with dermatomyositis?
+141,Can you describe the appearance and locations of the rash in dermatomyositis?
+141,What additional symptoms might adults experience if they have dermatomyositis?
+141,"How does calcinosis develop in patients with dermatomyositis, and is it more common in children or adults?"
+141,What other diseases might be related to dermatomyositis?
+142,What institutions conduct research on porencephaly?
+142,How does NINDS support research related to porencephaly?
+142,What specific areas of research are being explored regarding porencephaly?
+142,Why is understanding normal brain development important in the context of porencephaly?
+142,What is the goal of the research conducted by NINDS related to porencephaly?
+143,What are the common symptoms associated with Behcet's disease?
+143,At what age does Behcet's disease typically begin to manifest in individuals?
+143,How does Behcet's disease affect the central nervous system and what are the potential consequences?
+143,"Is there any known cause for Behcet's disease, and what factors might contribute to its development?"
+143,In which regions of the world is Behcet's disease more prevalent?
+144,What is cerebral atrophy and how does it affect brain function?
+144,Can you explain the difference between generalized and focal cerebral atrophy?
+144,What are some diseases that lead to cerebral atrophy?
+144,What are the common symptoms associated with cerebral atrophy?
+144,How does cerebral atrophy impact memory and language capabilities?
+145,What types of research does the NINDS support regarding Melkersson-Rosenthal syndrome?
+145,How is the NINDS aiming to address Melkersson-Rosenthal syndrome?
+145,Are there specific treatments being researched for Melkersson-Rosenthal syndrome?
+145,What is the NINDS's goal for the future of Melkersson-Rosenthal syndrome research?
+145,Can the NINDS help in finding a cure for Melkersson-Rosenthal syndrome?
+146,What resources does the NINDS provide for understanding CIDP?
+146,How does NINDS contribute to research on CIDP?
+146,What is the main focus of NINDS regarding CIDP?
+146,Are there ongoing studies aimed at treating CIDP?
+146,What kind of support does NINDS offer for CIDP prevention and treatment?
+147,How quickly after the onset of symptoms can Multiple Sclerosis be diagnosed by a physician?
+147,What challenges do doctors face when diagnosing Multiple Sclerosis in patients?
+147,What is the range of severity in patients diagnosed with Multiple Sclerosis?
+147,"Can Multiple Sclerosis symptoms improve without treatment, and what is this process called?"
+147,Are there any universally effective treatments available for Multiple Sclerosis?
+148,What is the primary focus of the NINDS research studies on Muscular Dystrophy (MD)?
+148,How does the NINDS aim to help with Muscular Dystrophy?
+148,What is the purpose of the Muscular Dystrophy Coordinating Committee (MDCC)?
+148,Where can I find more information about NINDS and its work on MD?
+148,What are the long-term goals of the studies supported by NINDS for Muscular Dystrophy?
+149,What specific areas of the brain are affected by frontotemporal dementia (FTD)?
+149,How do the symptoms of FTD differ between behavioral changes and language problems?
+149,Is there a genetic component associated with frontotemporal dementia?
+149,"What were the former names associated with frontotemporal dementia, and how has its classification evolved?"
+149,Can frontotemporal dementia involve both impulsive behaviors and apathetic behaviors simultaneously?
+150,What are the treatment options available for INAD?
+150,"Is there a cure for INAD, and how does it progress?"
+150,Can medications help manage symptoms of INAD?
+150,How can physical therapists assist children with INAD?
+150,What types of support can caregivers expect for a child with INAD?
+151,What types of surgeries are available for Moyamoya Disease?
+151,How does surgery help with restoring blood flow in the brain?
+151,Do children respond better to surgery than adults for this condition?
+151,What can patients expect after undergoing revascularization surgery?
+151,Is there a chance of having further strokes after the surgery for Moyamoya Disease?
+152,What are the main symptoms of meningitis that I should be aware of?
+152,How does meningitis differ from encephalitis in terms of what they affect?
+152,What are some potential causes of meningitis that can affect anyone?
+152,What specific symptoms in infants might indicate meningitis or encephalitis?
+152,What should I do if I experience severe symptoms such as loss of consciousness or seizures?
+153,"What are the typical symptoms of Chiari Malformation, and are there individuals who experience none?"
+153,"Can surgery help in managing the symptoms of Chiari Malformation, especially for more severe cases?"
+153,Is paralysis a potential outcome for those diagnosed with Chiari Malformation?
+153,How do the symptoms of Chiari Malformation vary between individuals?
+153,Are there any long-term effects for people with Chiari Malformation who do not undergo surgery?
+154,What genetic mutations are responsible for SLC4A1-associated distal renal tubular acidosis?
+154,How does the AE1 protein function in kidney cells and red blood cells?
+154,What distinguishes the autosomal dominant form from the autosomal recessive form of this condition?
+154,Why do some individuals with SLC4A1 mutations develop metabolic acidosis while others do not?
+154,What role does glycophorin A play in the transport of AE1 proteins in red blood cells?
+155,What are the main symptoms associated with beta-ureidopropionase deficiency?
+155,How does beta-ureidopropionase deficiency affect neurological development in individuals?
+155,Is it possible for someone with beta-ureidopropionase deficiency to show no neurological problems?
+155,What laboratory tests are used to diagnose beta-ureidopropionase deficiency?
+155,"Can beta-ureidopropionase deficiency lead to vision loss, and if so, how?"
+156,What resources can help diagnose congenital leptin deficiency?
+156,Where can I find information about the management of congenital leptin deficiency?
+156,How is severe obesity due to leptin deficiency diagnosed according to the Genetic Testing Registry?
+156,What treatment options are available for overweight and obesity related to congenital leptin deficiency?
+156,Are there any genetic counseling services for congenital leptin deficiency?
+157,What is glucose-galactose malabsorption and how does it affect digestion?
+157,What symptoms do infants with glucose-galactose malabsorption typically experience?
+157,Are there specific types of formulas that infants with this condition can safely consume?
+157,At what age does glucose-galactose malabsorption usually become apparent in infants?
+157,What potential complications can arise in individuals with glucose-galactose malabsorption?
+158,What gene mutation is responsible for causing spastic paraplegia type 15?
+158,How does the ZFYVE26 gene mutation affect the production of spastizin?
+158,What role does spastizin play in autophagy and cell function?
+158,What are the consequences of impaired autophagy in cells affected by spastic paraplegia type 15?
+158,How might the lack of spastizin protein influence cell division in spastic paraplegia type 15?
+159,What is the estimated incidence of neurofibromatosis type 2 worldwide?
+159,How many people are affected by neurofibromatosis type 2 in the general population?
+159,Is neurofibromatosis type 2 considered a rare disease?
+159,What is the likelihood of encountering someone with neurofibromatosis type 2?
+159,Can you provide statistics on the prevalence of neurofibromatosis type 2?
+160,What gene mutation is responsible for spondylocarpotarsal synostosis syndrome?
+160,How does the FLNB gene affect skeletal development before birth?
+160,What role does filamin B play in the cytoskeleton?
+160,What are the consequences of mutations in the FLNB gene on bone structure?
+160,Are there cases of spondylocarpotarsal synostosis syndrome without FLNB gene mutations?
+161,What is the estimated prevalence of hereditary angioedema in the population?
+161,What percentage of hereditary angioedema cases does Type I represent?
+161,How common is Type II hereditary angioedema compared to Type I?
+161,What is the rarity of Type III hereditary angioedema?
+161,How many types of hereditary angioedema are there?
+162,"What are the main characteristics of multicentric osteolysis, nodulosis, and arthropathy (MONA)?"
+162,How does MONA affect bone density and overall bone health?
+162,Can you explain the types of bone abnormalities that occur with MONA and where they typically start?
+162,What are some common skin features associated with MONA?
+162,"Is there a link between MONA and Torg syndrome, and how are they differentiated?"
+163,What genetic mutation causes KID syndrome and what protein does this gene encode?
+163,"How does connexin 26 function in the inner ear, and what role does it play in hearing?"
+163,What are the effects of the mutations in the GJB2 gene on cell health and survival in KID syndrome?
+163,Can you explain the connection between KID syndrome and the outermost layer of skin?
+163,Why do some individuals with GJB2 mutations exhibit eye problems while others do not?
+164,What exactly is familial paroxysmal nonkinesigenic dyskinesia and how does it affect individuals?
+164,Can you explain the triggers that may lead to episodes of involuntary movement in familial paroxysmal nonkinesigenic dyskinesia?
+164,What are the different types of abnormal movements that can occur during an episode of familial paroxysmal nonkinesigenic dyskinesia?
+164,At what age do individuals typically start showing symptoms of familial paroxysmal nonkinesigenic dyskinesia?
+164,How long do episodes of involuntary movement last in individuals with familial paroxysmal nonkinesigenic dyskinesia?
+165,What is the inheritance pattern of CHARGE syndrome?
+165,How do most cases of CHARGE syndrome arise?
+165,Can CHARGE syndrome be inherited from a parent?
+165,What gene is commonly associated with CHARGE syndrome?
+165,Is a family history necessary for CHARGE syndrome to occur?
+166,What is the inheritance pattern of achromatopsia?
+166,How do parents of someone with achromatopsia generally present in terms of symptoms?
+166,What does it mean that achromatopsia is inherited in an autosomal recessive manner?
+166,How many copies of the gene must have mutations for a person to have achromatopsia?
+166,Can parents pass on achromatopsia without being affected themselves?
+167,What type of inheritance pattern is associated with tibial muscular dystrophy?
+167,How many copies of the altered gene are needed to cause tibial muscular dystrophy?
+167,Is tibial muscular dystrophy considered a dominant or recessive disorder?
+167,"In tibial muscular dystrophy, what does it mean for the gene to be autosomal dominant?"
+167,Can tibial muscular dystrophy be passed down from just one parent?
+168,What are the available resources for understanding the diagnosis of CADASIL?
+168,Where can I find information on the management of CADASIL?
+168,Is there a registry for genetic testing related to CADASIL?
+168,What does the MedlinePlus Encyclopedia say about Multi-Infarct Dementia associated with CADASIL?
+168,What types of treatments are available for CADASIL according to Butler Hospital?
+169,What is the estimated prevalence of 22q11.2 deletion syndrome in the general population?
+169,Why might 22q11.2 deletion syndrome be underdiagnosed in individuals?
+169,What are some reasons that 22q11.2 deletion syndrome might be mistaken for other disorders?
+169,What factors contribute to the variable features of 22q11.2 deletion syndrome?
+169,How can mild signs and symptoms affect the diagnosis of 22q11.2 deletion syndrome?
+170,What are the main characteristics of Costello syndrome?
+170,How does Costello syndrome affect a person's growth and development?
+170,What types of heart problems are commonly associated with Costello syndrome?
+170,What tumors are individuals with Costello syndrome at risk of developing?
+170,How can Costello syndrome be distinguished from similar genetic conditions like CFC syndrome and Noonan syndrome?
+171,What is the pattern of inheritance for monilethrix when caused by a keratin gene mutation?
+171,"Can monilethrix be caused by new mutations, and how is that inherited?"
+171,How is monilethrix inherited when the DSG4 gene is mutated?
+171,What do parents of a child with autosomal recessive monilethrix carry concerning the mutated gene?
+171,Are symptoms present in parents who carry the gene mutation for autosomal recessive monilethrix?
+172,What is the primary cause of autosomal recessive congenital methemoglobinemia?
+172,How does methemoglobin differ from normal hemoglobin in its function?
+172,What are the major symptoms presented by individuals with type I autosomal recessive congenital methemoglobinemia?
+172,What neurological issues are associated with type II autosomal recessive congenital methemoglobinemia?
+172,What is the difference in life expectancy between individuals with type I and type II autosomal recessive congenital methemoglobinemia?
+173,What genes are involved in the different types of primary hyperoxaluria?
+173,"How do mutations in the AGXT, GRHPR, and HOGA1 genes affect enzyme production?"
+173,What is glyoxylate and what role does it play in primary hyperoxaluria?
+173,How do mutations in the AGXT and GRHPR genes lead to oxalate accumulation?
+173,What complications can arise due to excess oxalate in the body?
+174,What type of genetic inheritance does ornithine transcarbamylase deficiency follow?
+174,Can affected fathers pass this condition on to their sons?
+174,How many copies of the OTC gene must be mutated in females for the disorder to manifest?
+174,Are there cases where females with only one altered copy of the OTC gene show symptoms?
+174,How does the X-linked nature of this disorder affect males compared to females?
+175,What inheritance pattern is associated with ZAP70-related severe combined immunodeficiency?
+175,How do parents of an affected individual usually carry the mutation?
+175,Do parents typically show signs of ZAP70-related severe combined immunodeficiency?
+175,What is required for an individual to be affected by this condition?
+175,How many copies of the gene must have mutations for the disease to manifest?
+176,What is urinary retention and how does it affect the ability to urinate?
+176,What are the differences between acute and chronic urinary retention?
+176,What immediate actions should be taken if someone is experiencing acute urinary retention?
+176,How can chronic urinary retention go unnoticed until it causes other problems?
+176,"What complications can arise from untreated urinary retention, such as urinary incontinence or UTIs?"
+177,What are the common sources of sodium that I should be aware of while managing kidney failure?
+177,How does consuming too much sodium affect my heart health over time?
+177,What types of foods should I focus on to maintain a low sodium intake?
+177,Can you explain why I should avoid salt substitutes and what their alternative contents can impact my health?
+177,How can a dietitian assist me in finding flavorful spices that do not contain sodium or potassium?
+178,What factors contribute to the development of autoimmune hepatitis?
+178,Is there a genetic component associated with autoimmune hepatitis?
+178,Can environmental triggers influence the onset of autoimmune hepatitis?
+178,What role does autoimmunity play in autoimmune hepatitis?
+178,Are there specific genes linked to autoimmune hepatitis predisposition?
+179,What dietary changes should I make to help manage diverticular disease?
+179,Can you recommend any fiber products to use regularly for diverticular disease?
+179,What types of fruits are beneficial for someone with diverticular disease?
+179,Are there specific vegetables that can help reduce symptoms of diverticular disease?
+179,How can I incorporate more high-fiber foods into my daily meals to prevent diverticular problems?
+180,What blood tests are used for diagnosing Primary Sclerosing Cholangitis (PSC)?
+180,How does cholangiography help confirm a PSC diagnosis?
+180,What is the process of Endoscopic Retrograde Cholangiopancreatography (ERCP) in diagnosing PSC?
+180,Can you explain the differences between MRCP and other cholangiography methods?
+180,What additional tests might be performed alongside cholangiography for PSC?
+181,What are the main functions of the kidneys in the human body?
+181,"How much blood do the kidneys filter daily, and what do they produce?"
+181,Can you explain how urine travels from the kidneys to the bladder?
+181,What signals are sent to the brain when the bladder is full?
+181,How does the length of the urethra differ between men and women?
+182,What method can I use to track the foods that might be causing my gas symptoms?
+182,When should I consider talking to a health care provider about my gas symptoms?
+182,What specific tests might my health care provider perform if I suspect lactose intolerance?
+182,What should I do if I notice sudden changes in my gas symptoms?
+182,Are there other digestive issues that could be tested for if I have gas along with other symptoms?
+183,How does having diabetes increase my risk of heart disease or stroke?
+183,What are the ABCs of diabetes that I need to control?
+183,What lifestyle changes can help reduce my risk of heart disease and stroke with diabetes?
+183,What should I do if I experience warning signs of a heart attack or stroke?
+183,Why is early treatment crucial for heart attacks and strokes in diabetic patients?
+184,What are the common signs and symptoms of Peyronie's disease?
+184,Is pain during sexual intercourse a symptom of Peyronie's disease?
+184,Can Peyronie's disease cause a curve in the penis?
+184,Do symptoms of Peyronie's disease always lead to a permanent curve?
+184,What variations exist in the severity and onset of Peyronie's disease symptoms?
+185,What severe complications can arise from gastroparesis?
+185,How does gastroparesis affect people with diabetes concerning blood glucose levels?
+185,What are the potential nutritional issues someone with gastroparesis might face?
+185,Can gastroparesis cause symptoms that impact my work or daily activities?
+185,What is the relationship between gastroparesis and gastroesophageal reflux disease (GERD)?
+186,What dietary recommendations should someone with hyperthyroidism follow to maintain a balanced diet?
+186,How does iodine intake affect individuals with autoimmune thyroid disease and hyperthyroidism?
+186,"What is the recommended daily iodine intake for pregnant women, and why is it important?"
+186,How can pregnant women ensure they are getting enough iodine in their diet?
+186,Why is it essential to discuss dietary supplements like iodine with a healthcare provider when managing hyperthyroidism?
+187,What are abdominal adhesions and how do they form between abdominal tissues and organs?
+187,How common are abdominal adhesions among patients who have undergone abdominal surgery?
+187,"What are the common symptoms associated with abdominal adhesions, particularly in cases where symptoms are present?"
+187,How can medical professionals diagnose intestinal obstructions related to abdominal adhesions if imaging tests cannot detect the adhesions themselves?
+187,"What treatment options are available for abdominal adhesions that lead to pain, intestinal blockage, or fertility issues?"
+188,How can my diet help in preventing or delaying type 2 diabetes?
+188,What is the significance of maintaining a reasonable body weight in relation to diabetes?
+188,How do I calculate my BMI and what does it indicate about my risk for diabetes?
+188,What waist measurements should I be aware of that could indicate a higher risk for insulin resistance?
+188,Are there resources available to help me change my eating habits and manage my weight effectively?
+189,What are the potential complications associated with kidney dysplasia in infants?
+189,How can hydronephrosis develop in a baby with kidney dysplasia?
+189,What impact can untreated hydronephrosis have on a functioning kidney?
+189,Are there any risks of urinary tract infections related to kidney dysplasia?
+189,Does kidney dysplasia increase the likelihood of developing chronic kidney disease or kidney cancer?
+190,What treatments are available for someone diagnosed with medullary sponge kidney?
+190,How are urinary tract infections treated in patients with medullary sponge kidney?
+190,What should be done if a patient has kidney stones associated with medullary sponge kidney?
+190,Are there specific medications recommended for curing UTIs in individuals with medullary sponge kidney?
+190,What procedures may be required for larger kidney stones caused by medullary sponge kidney?
+191,What symptoms are associated with interstitial cystitis or painful bladder syndrome?
+191,How does interstitial cystitis affect the frequency and urgency of urination?
+191,Are there alternative terms used to describe interstitial cystitis or painful bladder syndrome?
+191,What role does the bladder play in the context of interstitial cystitis?
+191,Can you explain what bladder pain syndrome means in relation to interstitial cystitis?
+192,What are the common symptoms associated with Interstitial Cystitis/Painful Bladder Syndrome?
+192,What other conditions can cause symptoms similar to IC/PBS?
+192,How do doctors typically diagnose Interstitial Cystitis?
+192,Can infections be ruled out when diagnosing bladder problems?
+192,What should I do if my test results come back normal but I still have bladder pain?
+193,What are the common signs and symptoms of diabetes that I should look out for?
+193,Can someone have diabetes without showing any symptoms?
+193,How can I confirm if I have diabetes if I suspect I might?
+193,What does feeling very tired indicate in relation to diabetes?
+193,Why should sores that heal slowly be a concern for diabetes?
+194,What is anemia and how does it affect the body?
+194,How do red blood cells contribute to the body's energy usage?
+194,What organs are particularly impacted by anemia?
+194,How does chronic kidney disease relate to anemia?
+194,What symptoms might indicate that someone has anemia?
+195,What treatments should I consider for managing kidney failure?
+195,Where can I find reliable information about kidney failure and its treatment options?
+195,What dietary changes should I make when undergoing hemodialysis?
+195,"How does anemia relate to chronic kidney disease, and what can I do about it?"
+195,What resources are available for financial help with kidney failure treatment?
+196,What is the main treatment for secondary vesicoureteral reflux?
+196,How is blockage causing reflux addressed in secondary VUR?
+196,Are antibiotics used in the treatment of secondary vesicoureteral reflux?
+196,What role does intermittent catheterization play in managing secondary VUR?
+196,Can surgery be an option for treating secondary vesicoureteral reflux?
+197,What are the main causes of childhood nephrotic syndrome?
+197,Is there a way to prevent idiopathic childhood nephrotic syndrome?
+197,Can congenital nephrotic syndrome be avoided?
+197,What types of childhood nephrotic syndrome exist?
+197,How does the idiopathic form differ from other types?
