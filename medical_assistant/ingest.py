@@ -13,7 +13,11 @@ def load_index(data_path=DATA_PATH):
     documents = df.to_dict(orient="records")
 
     index = minsearch.Index(
-        text_fields=['answer','source','focus_area'],
+        text_fields=[
+            'answer',
+            'source',
+            'focus_area'
+    ],
         keyword_fields=['id']
     )
 
