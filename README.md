@@ -20,15 +20,6 @@ a free course about LLMs and RAG.
   <img src="images/image.png">
 </p>
 
-To see a demo of the project and instructions on how to run it
-on github codespaces, check this video:
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=RiQcSHzR8_E">
-    <img src="https://markdown-videos-api.jorgenkh.no/youtube/RiQcSHzR8_E">
-  </a>
-</p>
-
 
 ## Project overview
 
