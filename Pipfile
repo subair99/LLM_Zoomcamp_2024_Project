@@ -17,14 +17,15 @@ pgcli = "*"
 questionary = "*"
 
 [dev-packages]
-tqdm = "*"
-notebook = "*"
-ipywidgets = "*"
 export = "*"
+python-version = "*"
+tqdm = "*"
+notebook = "==7.1.2"
+ipywidgets = "*"
+jupyter = "*"
 requests = "*"
 pgcli = "*"
 questionary = "*"
-python-version = "*"
 
 [requires]
 python_version = "3.12"
