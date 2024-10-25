@@ -20,14 +20,14 @@ def create_service_account():
     auth = (GRAFANA_USER, GRAFANA_PASSWORD)
     headers = {"Content-Type": "application/json"}
     payload = {
-        "name": "ProgrammaticServiceAccount",
+        "name": "sa-1-programmaticserviceaccountt",
         "role": "Admin",
     }
     response = requests.post(
         f"{GRAFANA_URL}/api/serviceaccounts", auth=auth, headers=headers, json=payload
     )
 
-    if response.status_code == 200:
+    if response.status_code == 201:  # Updated to check for 201 Created
         print("Service account created successfully")
         return response.json()["id"]
     else:
@@ -44,7 +44,7 @@ def create_service_account_token(service_account_id):
         f"{GRAFANA_URL}/api/serviceaccounts/{service_account_id}/tokens", auth=auth, headers=headers, json=payload
     )
 
-    if response.status_code == 200:
+    if response.status_code == 200 or response.status_code == 201:
         print("Service account token created successfully")
         return response.json()["key"]
     else:
