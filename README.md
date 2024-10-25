@@ -17,7 +17,7 @@ This project was implemented for
 a free course about LLMs and RAG.
 
 <p align="center">
-  <img src="images/image.png">
+  <img src="images/image.jpg">
 </p>
 
 
