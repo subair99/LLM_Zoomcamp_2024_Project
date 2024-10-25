@@ -15,6 +15,7 @@ tzdata = "*"
 requests = "*"
 pgcli = "*"
 questionary = "*"
+streamlit = "*"
 
 [dev-packages]
 export = "*"

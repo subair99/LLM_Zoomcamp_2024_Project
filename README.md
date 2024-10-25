@@ -4,15 +4,19 @@
   <img src="images/banner.jpg">
 </p>
 
-Staying consistent with fitness routines is challenging,
-especially for beginners. Gyms can be intimidating, and personal
-trainers aren't always available.
 
-The Fitness Assistant provides a conversational AI that helps
-users choose exercises and find alternatives, making fitness more
-manageable.
+Staying organized and efficient in a medical office can be 
+challenging, especially for those new to the field. Managing 
+patient records, appointments, and medical supplies can be 
+overwhelming.
 
-This project was implemented for 
+The Medical Assistant AI provides a conversational tool that 
+assists users in streamlining administrative tasks, managing 
+patient schedules, and offering guidance on best practices, 
+making the role of a medical assistant more manageable.
+
+
+This project was implemented as a requirement for the completion of 
 [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) -
 a free course about LLMs and RAG.
 
@@ -24,38 +28,21 @@ a free course about LLMs and RAG.
 ## Project overview
 
 The Medical Assistant is a RAG application designed to assist
-users with their medical conditions.
-
-The main use cases include:
-
-1. Exercise Selection: Recommending exercises based on the type
-of activity, targeted muscle groups, or available equipment.
-2. Exercise Replacement: Replacing an exercise with suitable
-alternatives.
-3. Exercise Instructions: Providing guidance on how to perform a
-specific exercise.
-4. Conversational Interaction: Making it easy to get information
-without sifting through manuals or websites.
+users with their medical conditions. It enables practitioners 
+to quickly diagnose conditions thereby saving time and cost.
 
 
 ## Dataset
 
-The dataset used in this project contains information about
-various medical conditions, including:
+The dataset used in this project was obtained from [kaggle](https://www.kaggle.com/datasets/pythonafroz/medquad-medical-question-answer-for-ai-research)
+and known as MedQuAD, short for Medical Question Answering Datase.
+It contains information about various medical conditions, answers, 
+source and focus area with 16393 rows after cleaning. 
 
-- **Exercise Name:** The name of the exercise (e.g., Push-Ups, Squats).
-- **Type of Activity:** The general category of the exercise (e.g., Strength, Mobility, Cardio).
-- **Type of Equipment:** The equipment needed for the exercise (e.g., Bodyweight, Dumbbells, Kettlebell).
-- **Body Part:** The part of the body primarily targeted by the exercise (e.g., Upper Body, Core, Lower Body).
-- **Type:** The movement type (e.g., Push, Pull, Hold, Stretch).
-- **Muscle Groups Activated:** The specific muscles engaged during
-the exercise (e.g., Pectorals, Triceps, Quadriceps).
-- **Instructions:** Step-by-step guidance on how to perform the
-exercise correctly.
-
-The dataset was generated using ChatGPT and contains 207 records. It serves as the foundation for the Fitness Assistant's exercise recommendations and instructional support.
-
-You can find the data in [`data/data.csv`](data/data.csv).
+Due to cost, only 198 rows were chosen but they were spread evenly 
+across the 19 sources, and ChatGPT was used to generate additional 
+4 questions each. The link to the data is [`data.csv`](data/data.csv),
+while the link to the questions is [`ground-truth-retrieval.csv`](data/ground-truth-retrieval.csv).
 
 
 ## Technologies
@@ -63,30 +50,37 @@ You can find the data in [`data/data.csv`](data/data.csv).
 - Python 3.12
 - Docker and Docker Compose for containerization
 - [Minsearch](https://github.com/alexeygrigorev/minsearch) for full-text search
-- Flask as the API interface (see [Background](#background) for more information on Flask)
-- Grafana for monitoring and PostgreSQL as the backend for it
-- OpenAI as an LLM
+- Flask as the API interface (see [Flask](https://flask.palletsprojects.com/en/stable/) for more information on Flask)
+- Grafana for monitoring (see [Grafana](https://grafana.com/) for more information on Grafana)
+- PostgreSQL as the backend (see [PostgreSQL](https://www.postgresql.org/) for more information on PostgreSQL)
+- OpenAI as the LLM (see [OpenAI](https://openai.com/) for more information on OpenAI)
 
 
 ## Preparation
 
-Since we use OpenAI, you need to provide the API key:
+Since OpenAI was used, their is need to provide an API key for it:
 
 1. Install `direnv`. If you use Ubuntu, run `sudo apt install direnv` and then `direnv hook bash >> ~/.bashrc`.
 2. Copy `.envrc_template` into `.envrc` and insert your key there.
 3. For OpenAI, it's recommended to create a new project and use a separate key.
 4. Run `direnv allow` to load the key into your environment.
 
-For dependency management, we use pipenv, so you need to install it:
+For dependency management, pipenv was used, so its installation is required:
 
 ```bash
 pip install pipenv
 ```
 
-Once installed, you can install the app dependencies:
+Then the required programs:
 
 ```bash
-pipenv install --dev
+pipenv install openai scikit-learn pandas flask psycopg2-binary python-dotenv gunicorn tzdata requests pgcli questionary
+```
+
+And the programs used for development:
+
+```bash
+pipenv install --dev tqdm notebook==7.1.2 ipywidgets export requests pgcli python-version 
 ```
 
 
@@ -103,7 +97,7 @@ First, run `postgres`:
 docker-compose up postgres
 ```
 
-Then run the [`db_prep.py`](fitness_assistant/db_prep.py) script:
+Then run the [`db_prep.py`](medical_assistant/db_prep.py) script:
 
 ```bash
 pipenv shell
@@ -171,8 +165,8 @@ python app.py
 
 ### Running with Docker (without compose)
 
-Sometimes you might want to run the application in
-Docker without Docker Compose, e.g., for debugging purposes.
+To run the application in Docker without Docker Compose, 
+e.g., for debugging purposes.
 
 First, prepare the environment by running Docker Compose
 as in the previous section.
@@ -206,15 +200,15 @@ your logs:
 ```
 Database timezone: Etc/UTC
 Database current time (UTC): 2024-08-24 06:43:12.169624+00:00
-Database current time (Europe/Berlin): 2024-08-24 08:43:12.169624+02:00
+Database current time (Africa/Lagos): 2024-08-24 08:43:12.169624+02:00
 Python current time: 2024-08-24 08:43:12.170246+02:00
 Inserted time (UTC): 2024-08-24 06:43:12.170246+00:00
-Inserted time (Europe/Berlin): 2024-08-24 08:43:12.170246+02:00
+Inserted time (Africa/Lagos): 2024-08-24 08:43:12.170246+02:00
 Selected time (UTC): 2024-08-24 06:43:12.170246+00:00
-Selected time (Europe/Berlin): 2024-08-24 08:43:12.170246+02:00
+Selected time (Africa/Lagos): 2024-08-24 08:43:12.170246+02:00
 ```
 
-Make sure the time is correct.
+Ensure the time is correct.
 
 You can change the timezone by replacing `TZ` in `.env`.
 
@@ -336,7 +330,7 @@ The code for the application is in the [`medical_assistant`](medical_assistant/)
 - [`db.py`](medical_assistant/db.py) - the logic for logging the requests and responses to postgres
 - [`db_prep.py`](medical_assistant/db_prep.py) - the script for initializing the database
 
-We also have some code in the project root directory:
+there are also some code in the project root directory:
 
 - [`test.py`](test.py) - select a random question for testing
 - [`cli.py`](cli.py) - interactive CLI for the APP
@@ -352,19 +346,18 @@ for examples on how to interact with the application.
 
 ### Ingestion
 
-The ingestion script is in [`ingest.py`](fitness_assistant/ingest.py).
+The ingestion script is in [`ingest.py`](medical_assistant/ingest.py).
 
-Since we use an in-memory database, `minsearch`, as our
-knowledge base, we run the ingestion script at the startup
-of the application.
+Since an in-memory database, `minsearch`, was used as the knowledge base, 
+the ingestion script was ran at the startup of the application.
 
-It's executed inside [`rag.py`](fitness_assistant/rag.py)
-when we import it.
+It will be executed inside [`rag.py`](medical_assistant/rag.py)
+when imported.
 
 
 ## Experiments
 
-For experiments, we use Jupyter notebooks.
+For experiments, Jupyter notebooks was used.
 They are in the [`notebooks`](notebooks/) folder.
 
 To start Jupyter, run:
@@ -376,61 +369,59 @@ pipenv run jupyter notebook
 
 We have the following notebooks:
 
+- [`prepare_data.ipynb`](prepare_data.ipynb): The data preparation for the project.
 - [`rag-test.ipynb`](notebooks/rag-test.ipynb): The RAG flow and evaluating the system.
 - [`evaluation-data-generation.ipynb`](notebooks/evaluation-data-generation.ipynb): Generating the ground truth dataset for retrieval evaluation.
+- 
 
 ### Retrieval evaluation
 
 The basic approach - using `minsearch` without any boosting - gave the following metrics:
 
-- Hit rate: 94%
-- MRR:      82%
+- Hit rate: 98.8%
+- MRR:      88.5%
 
 The improved version (with tuned boosting):
 
-- Hit rate: 94%
-- MRR:      90%
+- Hit rate: 99.2%
+- MRR:      93.4%
 
 The best boosting parameters:
 
 ```python
 boost = {
-    'exercise_name': 2.11,
-    'type_of_activity': 1.46,
-    'type_of_equipment': 0.65,
-    'body_part': 2.65,
-    'type': 1.31,
-    'muscle_groups_activated': 2.54,
-    'instructions': 0.74
+    'answer':  1.499870942849007,
+    'source': 2.6492671100128127,
+    'focus_area': 0.7714670319653344
 }
 ```
 
 
 ### RAG flow evaluation
 
-We used the LLM-as-a-Judge metric to evaluate the quality
-of our RAG flow.
+LLM-as-a-Judge metric was used to evaluate the quality of 
+the RAG flow for a sample with 198 records.
 
 
-For `gpt-4o-mini`, in a sample with 200 records, we had:
+For `gpt-4o-mini`, the result was:
 
-- 167 (83%) `RELEVANT`
-- 30 (15%) `PARTLY_RELEVANT`
-- 3 (1.5%) `NON_RELEVANT`
+- 186 (93.0%) `RELEVANT`
+- 9 (0.45%) `PARTLY_RELEVANT`
+- 5 (0.25%) `NON_RELEVANT`
 
 
-We also tested `gpt-4o`:
+For `gpt-4o`, the result was:
 
-- 168 (84%) `RELEVANT`
-- 30 (15%) `PARTLY_RELEVANT`
-- 2 (1%) `NON_RELEVANT`
+- 181 (90.0%) `RELEVANT`
+- 12 (6.0%) `PARTLY_RELEVANT`
+- 7 (3.5%) `NON_RELEVANT`
 
-The difference is minimal, so we opted for `gpt-4o-mini`.
+The `gpt-4o-mini` was choosen because it performed better.
 
 
 ## Monitoring
 
-We use Grafana for monitoring the application. 
+Grafana was used for monitoring the application. 
 
 It's accessible at [localhost:3000](http://localhost:3000):
 
@@ -440,7 +431,23 @@ It's accessible at [localhost:3000](http://localhost:3000):
 ### Dashboards
 
 <p align="center">
-  <img src="images/dash.png">
+  <img src="images/dash1.png">
+</p>
+
+<p align="center">
+  <img src="images/dash2.png">
+</p>
+
+<p align="center">
+  <img src="images/dash3.png">
+</p>
+
+<p align="center">
+  <img src="images/dash4.png">
+</p>
+
+<p align="center">
+  <img src="images/dash5.png">
 </p>
 
 The monitoring dashboard contains several panels:
@@ -462,7 +469,7 @@ All Grafana configurations are in the [`grafana`](grafana/) folder:
 - [`dashboard.json`](grafana/dashboard.json) - the actual dashboard (taken from LLM Zoomcamp without changes).
 
 To initialize the dashboard, first ensure Grafana is
-running (it starts automatically when you do `docker-compose up`).
+running (it starts automatically when `docker-compose up` is run).
 
 Then run:
 
