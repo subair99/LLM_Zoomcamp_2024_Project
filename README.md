@@ -476,4 +476,4 @@ When prompted, keep "admin" as the new password.
 
 ## Acknowledgements
 
-My greatest appreciation goes to [Alexey Grigorev](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_NETWORK&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7254859071965548545#:~:text=post%20number%201-,Alexey%20Grigorev,-Alexey%20Grigorev) for his generosity, guidance and selfless dedication in providing free trainings. Your willingness to share your expertise has transformed my learning journey. Your guidance, support, and passion for teaching inspire me. Thank you for making a difference in my life!
+My greatest appreciation goes to [Alexey Grigorev](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_NETWORK&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7254859071965548545#:~:text=post%20number%201-,Alexey%20Grigorev,-Alexey%20Grigorev) for his generosity, guidance and selfless dedication in providing these courses. Your willingness to share your expertise has transformed my learning journey. Your guidance, support, and passion for teaching inspire me. Thank you for making a difference in my life!
