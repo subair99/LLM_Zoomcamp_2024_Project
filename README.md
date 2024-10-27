@@ -27,21 +27,16 @@ a free course about LLMs and RAG.
 
 ## Project overview
 
-The Medical Assistant is a RAG application designed to assist
-users with their medical conditions. It enables practitioners 
-to quickly diagnose conditions thereby saving time and cost.
+The Medical Assistant is a RAG application designed to assist users with their medical conditions. It enables practitioners to quickly diagnose problems thereby saving time and cost.
 
 
 ## Dataset
 
-The dataset used in this project was obtained from [kaggle](https://www.kaggle.com/datasets/pythonafroz/medquad-medical-question-answer-for-ai-research)
-and known as MedQuAD, short for Medical Question Answering Datase.
-It contains information about various medical conditions, answers, 
-source and focus area with 16393 rows after cleaning. 
+The dataset used in this project was obtained from [kaggle](https://www.kaggle.com/datasets/pythonafroz/medquad-medical-question-answer-for-ai-research) and known as MedQuAD, short for Medical Question Answering Datase.
 
-Due to cost, only 198 rows were chosen but they were spread evenly 
-across the 19 sources, and ChatGPT was used to generate additional 
-4 questions each. The link to the data is [`data.csv`](data/data.csv),
+It contains information about various medical conditions, answers, source and focus area with 16393 rows after cleaning. 
+
+Due to cost, only 198 rows were chosen but they were spread evenly across the 19 sources, and ChatGPT was used to generate additional 4 questions each. The link to the data is [`data.csv`](data/data.csv),
 while the link to the questions is [`ground-truth-retrieval.csv`](data/ground-truth-retrieval.csv).
 
 
@@ -58,7 +53,7 @@ while the link to the questions is [`ground-truth-retrieval.csv`](data/ground-tr
 
 ## Preparation
 
-Since OpenAI was used, their is need to provide an API key for it:
+Since OpenAI was used, there is need to provide an API key for it:
 
 1. Install `direnv`. If you use Ubuntu, run `sudo apt install direnv` and then `direnv hook bash >> ~/.bashrc`.
 2. Copy `.envrc_template` into `.envrc` and insert your key there.
@@ -88,8 +83,7 @@ pipenv install --dev tqdm notebook==7.1.2 ipywidgets export requests pgcli pytho
 
 ### Database configuration
 
-Before the application starts for the first time, the database
-needs to be initialized.
+Before the application starts for the first time, the database needs to be initialized.
 
 First, run `postgres`:
 
@@ -108,8 +102,7 @@ export POSTGRES_HOST=localhost
 python db_prep.py
 ```
 
-To check the content of the database, use `pgcli` (already
-installed with pipenv):
+To check the content of the database, use `pgcli` (already installed with pipenv):
 
 ```bash
 pipenv run pgcli -h localhost -U your_username -d course_assistant -W
@@ -138,21 +131,20 @@ docker-compose up
 
 ### Running locally
 
-If you want to run the application locally,
-start only postres and grafana:
+If the application is to be run locally, start only postres and grafana:
 
 ```bash
 docker-compose up postgres grafana
 ```
 
-If you previously started all applications with
+If all the applications were previously started with
 `docker-compose up`, you need to stop the `app`:
 
 ```bash
 docker-compose stop app
 ```
 
-Now run the app on your host machine:
+Now run the app on the host machine:
 
 ```bash
 pipenv shell
@@ -165,11 +157,9 @@ python app.py
 
 ### Running with Docker (without compose)
 
-To run the application in Docker without Docker Compose, 
-e.g., for debugging purposes.
+To run the application in Docker without Docker Compose, e.g., for debugging purposes.
 
-First, prepare the environment by running Docker Compose
-as in the previous section.
+First, prepare the environment by running Docker Compose as in the previous section.
 
 Next, build the image:
 
@@ -191,11 +181,9 @@ docker run -it --rm \
 
 ### Time configuration
 
-When inserting logs into the database, ensure the timestamps are
-correct. Otherwise, they won't be displayed accurately in Grafana.
+When inserting logs into the database, ensure the timestamps are correct. Otherwise, they won't be displayed accurately in Grafana.
 
-When you start the application, you will see the following in
-your logs:
+The following logs will be seen when tha application is atarted:
 
 ```
 Database timezone: Etc/UTC
@@ -210,16 +198,15 @@ Selected time (Africa/Lagos): 2024-08-24 08:43:12.170246+02:00
 
 Ensure the time is correct.
 
-You can change the timezone by replacing `TZ` in `.env`.
+The timezone can be changed by replacing `TZ` in `.env`.
 
-On some systems, specifically WSL, the clock in Docker may get
-out of sync with the host system. You can check that by running:
+On some systems, specifically WSL, the clock in Docker may get out of sync with the host system. This can checked that by running:
 
 ```bash
 docker run ubuntu date
 ```
 
-If the time doesn't match yours, you need to sync the clock:
+There is need to sync the clock if the time doesn't match:
 
 ```bash
 wsl
@@ -235,11 +222,11 @@ After that, start the application (and the database) again.
 
 ## Using the application
 
-When the application is running, we can start using it.
+When the application is running, it can be used.
 
 ### CLI
 
-We built an interactive CLI application using
+An interactive CLI application was built using
 [questionary](https://questionary.readthedocs.io/en/stable/).
 
 To start it, run:
@@ -248,8 +235,8 @@ To start it, run:
 pipenv run python cli.py
 ```
 
-You can also make it randomly select a question from
-[our ground truth dataset](data/ground-truth-retrieval.csv):
+It can also be made to randomly select a question from
+[the ground truth dataset](data/ground-truth-retrieval.csv):
 
 ```bash
 pipenv run python cli.py --random
@@ -257,20 +244,18 @@ pipenv run python cli.py --random
 
 ### Using `requests`
 
-When the application is running, you can use
-[requests](https://requests.readthedocs.io/en/latest/)
-to send questions—use [test.py](test.py) for testing it:
+When the application is running [requests](https://requests.readthedocs.io/en/latest/) can be used to send questions—use [test.py](test.py) for testing:
 
 ```bash
 pipenv run python test.py
 ```
 
-It will pick a random question from the ground truth dataset
-and send it to the app.
+It will pick a random question from the ground truth dataset and send it to the app.
+
 
 ### CURL
 
-You can also use `curl` for interacting with the API:
+To interact with the API `curl` can also be used:
 
 ```bash
 URL=http://localhost:5000
@@ -285,7 +270,7 @@ curl -X POST \
     ${URL}/question
 ```
 
-You will see something like the following in the response:
+The response will be similar to the massage below:
 
 ```json
 {
@@ -311,13 +296,14 @@ curl -X POST \
     ${URL}/feedback
 ```
 
-After sending it, you'll receive the acknowledgement:
+After sending, it will be acknowledgement as below:
 
 ```json
 {
     "message": "Feedback received for conversation 4e1cef04-bfd9-4a2c-9cdd-2771d8f70e4d: 1"
 }
 ```
+
 
 ## Code
 
@@ -330,7 +316,7 @@ The code for the application is in the [`medical_assistant`](medical_assistant/)
 - [`db.py`](medical_assistant/db.py) - the logic for logging the requests and responses to postgres
 - [`db_prep.py`](medical_assistant/db_prep.py) - the script for initializing the database
 
-there are also some code in the project root directory:
+there are also some codes in the project root directory:
 
 - [`test.py`](test.py) - select a random question for testing
 - [`cli.py`](cli.py) - interactive CLI for the APP
@@ -338,7 +324,7 @@ there are also some code in the project root directory:
 
 ### Interface
 
-We use Flask for serving the application as an API.
+Flask was used for serving the application as an API.
 
 Refer to the ["Using the Application" section](#using-the-application)
 for examples on how to interact with the application.
@@ -348,17 +334,14 @@ for examples on how to interact with the application.
 
 The ingestion script is in [`ingest.py`](medical_assistant/ingest.py).
 
-Since an in-memory database, `minsearch`, was used as the knowledge base, 
-the ingestion script was ran at the startup of the application.
+Since an in-memory database, `minsearch`, was used as the knowledge base, the ingestion script was ran at the startup of the application.
 
-It will be executed inside [`rag.py`](medical_assistant/rag.py)
-when imported.
+It will be executed inside [`rag.py`](medical_assistant/rag.py) when imported.
 
 
 ## Experiments
 
-For experiments, Jupyter notebooks was used.
-They are in the [`notebooks`](notebooks/) folder.
+For experiments, Jupyter notebooks was used. They are in the [`notebooks`](notebooks/) folder.
 
 To start Jupyter, run:
 
@@ -374,6 +357,7 @@ We have the following notebooks:
 - [`evaluation-data-generation.ipynb`](notebooks/evaluation-data-generation.ipynb): Generating the ground truth dataset for retrieval evaluation.
 - 
 
+
 ### Retrieval evaluation
 
 The basic approach - using `minsearch` without any boosting - gave the following metrics:
@@ -386,7 +370,7 @@ The improved version (with tuned boosting):
 - Hit rate: 99.2%
 - MRR:      93.4%
 
-The best boosting parameters:
+The best boosting parameters were:
 
 ```python
 boost = {
@@ -399,8 +383,7 @@ boost = {
 
 ### RAG flow evaluation
 
-LLM-as-a-Judge metric was used to evaluate the quality of 
-the RAG flow for a sample with 198 records.
+LLM-as-a-Judge metric was used to evaluate the quality of the RAG flow for a sample with 198 records.
 
 
 For `gpt-4o-mini`, the result was:
@@ -468,8 +451,7 @@ All Grafana configurations are in the [`grafana`](grafana/) folder:
 - [`init.py`](grafana/init.py) - for initializing the datasource and the dashboard.
 - [`dashboard.json`](grafana/dashboard.json) - the actual dashboard (taken from LLM Zoomcamp without changes).
 
-To initialize the dashboard, first ensure Grafana is
-running (it starts automatically when `docker-compose up` is run).
+To initialize the dashboard, first ensure Grafana is running (it starts automatically when `docker-compose up` is run).
 
 Then run:
 
@@ -478,7 +460,7 @@ pipenv shell
 
 cd grafana
 
-# make sure the POSTGRES_HOST variable is not overwritten 
+# esure the POSTGRES_HOST variable is not overwritten 
 env | grep POSTGRES_HOST
 
 python init.py
@@ -492,26 +474,6 @@ Then go to [localhost:3000](http://localhost:3000):
 When prompted, keep "admin" as the new password.
 
 
-## Background
+## Acknowledgements
 
-Here we provide background on some tech not used in the
-course and links for further reading.
-
-
-### Flask
-
-We use Flask for creating the API interface for our application.
-It's a web application framework for Python: we can easily
-create an endpoint for asking questions and use web clients
-(like `curl` or `requests`) for communicating with it.
-
-In our case, we can send questions to `http://localhost:5000/question`.
-
-For more information, visit the [official Flask documentation](https://flask.palletsprojects.com/).
-
-
-## Acknowledgements 
-
-I thank the course participants for all your energy
-and positive feedback as well as the course sponsors for
-making it possible to run this course for free. 
+My greatest appreciation goes to [Alexey Grigorev](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_NETWORK&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7254859071965548545#:~:text=post%20number%201-,Alexey%20Grigorev,-Alexey%20Grigorev) for his generosity, guidance and selfless dedication in providing free trainings. Your willingness to share your expertise has transformed my learning journey. Your guidance, support, and passion for teaching inspire me. Thank you for making a difference in my life!
