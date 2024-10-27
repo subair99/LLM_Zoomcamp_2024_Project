@@ -15,11 +15,8 @@ tzdata = "*"
 requests = "*"
 pgcli = "*"
 questionary = "*"
-streamlit = "*"
 
 [dev-packages]
-export = "*"
-python-version = "*"
 tqdm = "*"
 notebook = "==7.1.2"
 ipywidgets = "*"
