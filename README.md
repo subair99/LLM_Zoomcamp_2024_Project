@@ -326,8 +326,7 @@ there are also some codes in the project root directory:
 
 Flask was used for serving the application as an API.
 
-Refer to the ["Using the Application" section](#using-the-application)
-for examples on how to interact with the application.
+Refer to the ["Using the Application" section](#using-the-application) for examples on how to interact with the application.
 
 
 ### Ingestion
