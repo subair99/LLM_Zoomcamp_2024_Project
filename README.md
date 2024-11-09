@@ -5,15 +5,13 @@
 </p>
 
 
-Staying organized and efficient in a medical office can be 
-challenging, especially for those new to the field. Managing 
-patient records, appointments, and medical supplies can be 
-overwhelming.
+## Project overview
 
-The Medical Assistant AI provides a conversational tool that 
-assists users in streamlining administrative tasks, managing 
-patient schedules, and offering guidance on best practices, 
-making the role of a medical assistant more manageable.
+Staying organized and efficient in a medical office can be challenging, especially for those new to the field. Managing patient records, appointments, and medical supplies can be overwhelming.
+
+The Medical Assistant AI provides a conversational tool that assists users in streamlining administrative tasks, managing patient schedules, and offering guidance on best practices, making the role of a medical assistant more manageable.
+
+The Medical Assistant is a RAG application designed to assist users with their medical conditions. It enables practitioners to quickly diagnose problems thereby saving time and cost.
 
 
 This project was implemented as a requirement for the completion of 
@@ -23,11 +21,6 @@ a free course about LLMs and RAG.
 <p align="center">
   <img src="images/image.jpg">
 </p>
-
-
-## Project overview
-
-The Medical Assistant is a RAG application designed to assist users with their medical conditions. It enables practitioners to quickly diagnose problems thereby saving time and cost.
 
 
 ## Dataset
@@ -413,23 +406,23 @@ It's accessible at [localhost:3000](http://localhost:3000):
 ### Dashboards
 
 <p align="center">
-  <img src="images/dash1.png">
+  <img src="images/dash1.jpg">
 </p>
 
 <p align="center">
-  <img src="images/dash2.png">
+  <img src="images/dash2.jpg">
 </p>
 
 <p align="center">
-  <img src="images/dash3.png">
+  <img src="images/dash3.jpg">
 </p>
 
 <p align="center">
-  <img src="images/dash4.png">
+  <img src="images/dash4.jpg">
 </p>
 
 <p align="center">
-  <img src="images/dash5.png">
+  <img src="images/dash5.jpg">
 </p>
 
 The monitoring dashboard contains several panels:
